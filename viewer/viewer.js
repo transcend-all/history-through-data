@@ -38,7 +38,8 @@ export default function (component) {
   const eventYears = new Set(events.map((e) => e.year));
 
   // A state can join partway through (e.g. Acre in 1903): before that it is drawn as foreign land.
-  const FOREIGN = "#34518F";
+  const FOREIGN = (D.theme && D.theme["--neighbor"]) || "#34518F";
+  if (D.theme) for (const [k, v] of Object.entries(D.theme)) parentElement.style.setProperty(k, v);
   const stageAt = (st, year) => {
     if (st.joins && year < st.joins) return { stage: -1, since: null, note: st.foreignNote || "" };
     let r = { stage: 0, since: null, note: st.untouched };
@@ -48,6 +49,7 @@ export default function (component) {
     }
     return r;
   };
+  const Y = (y) => (y > 0 ? `${y}` : (D.bc || "{y} BC").replace("{y}", -y));   // -264 → "264 BC"
   const eraAt = (year) => D.eras.find(([a, b]) => a <= year && year <= b)[2];
 
   // ---- skeleton ------------------------------------------------------------
@@ -113,7 +115,7 @@ export default function (component) {
     D.stages.map((s) => `<div class="item"><span class="sw" style="background:${s.color}"></span>
       <span><b>${esc(s.name)}</b><br><span class="desc">${esc(s.desc)}</span></span></div>`).join("") +
     (D.states.some((s) => s.joins) ? `<div class="item"><span class="sw" style="background:${FOREIGN}"></span>
-      <span><b>Not yet Brazilian</b><br><span class="desc">Territory acquired later</span></span></div>` : "") +
+      <span><b>${D.notYet || "Not yet Brazilian"}</b><br><span class="desc">${D.notYetDesc || "Territory acquired later"}</span></span></div>` : "") +
     `<div class="item"><span class="mk"></span><span><b>Event site</b><br><span class="desc">Where a milestone happened</span></span></div>` +
     (D.refLine ? `<div class="item"><span class="td"></span><span><b>${esc(D.refLine.legendTitle)}</b><br>
       <span class="desc">${esc(D.refLine.legendDesc)}</span></span></div>` : "");
@@ -164,7 +166,8 @@ export default function (component) {
         current = sc;
         idx = 0;
         title.textContent = sc.title;
-        years.textContent = sc.years[0] === sc.years[1] ? `${sc.years[0]}` : `${sc.years[0]} – ${sc.years[1]}`;
+        years.textContent = sc.years[0] === sc.years[1] ? Y(sc.years[0]) : sc.years[0] < 0 && sc.years[1] < 0
+          ? (D.bc || "{y} BC").replace("{y}", `${-sc.years[0]}–${-sc.years[1]}`) : `${Y(sc.years[0])} – ${Y(sc.years[1])}`;
         text.textContent = sc.text;
         link.href = `documentary?lang=en&fmt=youtube&t=${Math.floor(sc.start)}`;
         box.classList.remove("swap");
@@ -279,7 +282,7 @@ export default function (component) {
   function makeCallout(e) {
     const side = e.lon > SPLIT_LON ? "east" : "west";
     const box = el("div", { class: "callout" }, calloutLayer);
-    box.innerHTML = `<b><span class="y">${e.year}</span> · ${esc(e.title)}</b><br>${esc(e.text)}`;
+    box.innerHTML = `<b><span class="y">${Y(e.year)}</span> · ${esc(e.title)}</b><br>${esc(e.text)}`;
     if (side === "east") box.style.left = `${pctX(EAST_COL_X)}%`;
     else box.style.right = `${100 - pctX(WEST_COL_X)}%`;
     const edge = side === "east" ? EAST_COL_X : WEST_COL_X;
@@ -376,10 +379,10 @@ export default function (component) {
     if (t.__state) {
       const r = stageAt(t.__state, S.year);
       const since = r.since ? ` since ${r.since}` : "";
-      const name = r.stage < 0 ? "Not yet Brazilian" : D.stages[r.stage].name;
+      const name = r.stage < 0 ? (D.notYet || "Not yet Brazilian") : D.stages[r.stage].name;
       showTip(ev, `<b>${esc(t.__state.name)}</b><br>${esc(name)}${since}<br><i>${esc(r.note)}</i>`);
     } else if (t.__event) {
-      showTip(ev, `<b>${t.__event.year} · ${esc(t.__event.title)}</b>`);
+      showTip(ev, `<b>${Y(t.__event.year)} · ${esc(t.__event.title)}</b>`);
     } else tooltip.classList.remove("on");
   });
   svg.addEventListener("mouseleave", () => tooltip.classList.remove("on"));
@@ -389,7 +392,7 @@ export default function (component) {
   let shownPast = -1;
   function render() {
     const year = S.year;
-    yearEl.textContent = year;
+    yearEl.textContent = Y(year);
     eraEl.textContent = eraAt(year);
     const todays = events.filter((e) => e.year === year);
     newsEl.textContent = todays.map((e) => e.title).join(" · ");
@@ -410,7 +413,7 @@ export default function (component) {
       shownPast = key;
       chronicle.innerHTML = past.length
         ? past.slice().reverse().map((e) =>
-            `<div class="entry${e.year === year ? " now" : ""}"><span class="yr">${e.year}</span>` +
+            `<div class="entry${e.year === year ? " now" : ""}"><span class="yr">${Y(e.year)}</span>` +
             `<span class="ttl">${esc(e.title)}</span><p>${esc(e.text)}</p></div>`).join("")
         : `<p class="empty">Nothing yet.</p>`;
     }

@@ -1,14 +1,14 @@
 /* Styles for the in-browser viewer (mounted in its own shadow root). */
 
 .viewer {
-  --cobalt: #1E3F8A;
-  --cobalt-deep: #132B63;
-  --glaze: #FBF7EE;
-  --gold: #D6A33A;
-  --gold-bright: #F2C14E;
-  --ink: #1A2140;
-  --ink-muted: #5A5F78;
-  --wine: #8B1E2D;
+  --cobalt: var(--sea, #1E3F8A);
+  --cobalt-deep: var(--sea-deep, #132B63);
+  --glaze: var(--glaze, #FBF7EE);
+  --gold: var(--gold, #D6A33A);
+  --gold-bright: var(--gold-bright, #F2C14E);
+  --ink: var(--ink, #1A2140);
+  --ink-muted: var(--ink-muted, #5A5F78);
+  --wine: var(--accent, #8B1E2D);
   --fade: 400ms;
   --display: 'Playfair Display', Georgia, serif;
   --body: 'Lora', Georgia, serif;
@@ -34,7 +34,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outl
   min-width: 7.5rem; font-weight: 600; background: var(--wine); color: var(--glaze);
   border: 2px solid var(--gold);
 }
-.play:hover { background: #A8263A; color: #fff; }
+.play:hover { background: var(--accent-hover, #A8263A); color: #fff; }
 
 .seg { display: inline-flex; }
 .seg button { border-radius: 0; margin-left: -1.5px; }
@@ -77,7 +77,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outl
 .map { position: relative; width: 100%; aspect-ratio: 85 / 43.5; overflow: hidden; }
 .map svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
 
-.neighbors { fill: #34518F; stroke: #5874B0; stroke-width: .8px; vector-effect: non-scaling-stroke; }
+.neighbors { fill: var(--neighbor, #34518F); stroke: var(--neighbor-edge, #5874B0); stroke-width: .8px; vector-effect: non-scaling-stroke; }
 .state {
   stroke: var(--glaze); stroke-width: 1.1px; vector-effect: non-scaling-stroke;
   transition: fill var(--fade) ease-in-out; cursor: default;
@@ -117,7 +117,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outl
   background: var(--glaze); border: 1.2px solid var(--cobalt-deep); color: var(--ink);
   font-size: var(--callout-fs, 12px); line-height: 1.35;
   opacity: 0; transition: opacity var(--fade), background var(--fade), border-color var(--fade);
-  box-shadow: 0 2px 6px rgba(10, 20, 50, .35);
+  box-shadow: 0 2px 6px rgba(var(--shade, 10, 20, 50), .35);
 }
 .callout.in { opacity: 1; }
 .callout.now { background: #FFF6DC; border: 2.5px solid var(--gold); }
@@ -128,7 +128,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outl
   position: absolute; pointer-events: none; z-index: 5; max-width: 260px;
   background: var(--glaze); border: 1.5px solid var(--cobalt); border-radius: 4px;
   padding: .45rem .6rem; font-size: .85rem; line-height: 1.35; color: var(--ink);
-  box-shadow: 0 2px 8px rgba(10, 20, 50, .3); opacity: 0; transition: opacity .12s;
+  box-shadow: 0 2px 8px rgba(var(--shade, 10, 20, 50), .3); opacity: 0; transition: opacity .12s;
 }
 .tooltip.on { opacity: 1; }
 .tooltip b { font-family: var(--display); color: var(--cobalt-deep); }
@@ -162,7 +162,7 @@ button:focus-visible, input:focus-visible { outline: 2px solid var(--gold); outl
   display: inline-block; padding: .45rem .9rem; border-radius: 6px; background: var(--wine);
   border: 2px solid var(--gold); color: var(--glaze); text-decoration: none; font-weight: 600;
 }
-.film-link:hover { background: #A8263A; }
+.film-link:hover { background: var(--accent-hover, #A8263A); }
 @media (max-width: 800px) { .film { grid-template-columns: 1fr; } }
 
 /* ---- lower panels ------------------------------------------------------ */
@@ -174,7 +174,7 @@ h3 { font-family: var(--display); color: var(--cobalt-deep); font-size: 1.6rem; 
 .chronicle { max-height: 430px; overflow-y: auto; padding-right: .4rem; }
 .entry {
   background: var(--glaze); border-left: 5px solid var(--cobalt); border-radius: 4px;
-  padding: .55rem .8rem; margin-bottom: .55rem; box-shadow: 0 1px 2px rgba(19, 43, 99, .15);
+  padding: .55rem .8rem; margin-bottom: .55rem; box-shadow: 0 1px 2px color-mix(in srgb, var(--sea-deep, #132B63) 15%, transparent);
 }
 .entry.now { border-left-color: var(--gold); background: #FFF6DC; animation: enter .45s ease-out; }
 @keyframes enter { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
