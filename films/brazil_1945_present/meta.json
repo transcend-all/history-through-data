@@ -1,0 +1,27 @@
+{
+ "slug": "rumo-ao-oeste",
+ "title": {
+  "en": "Rumo ao Oeste",
+  "pt": "Rumo ao Oeste"
+ },
+ "subtitle": {
+  "en": "Brazil from the Second World War to the present, 1945–2025",
+  "pt": "O Brasil da Segunda Guerra Mundial aos dias de hoje, 1945–2025"
+ },
+ "start": 1945,
+ "end": 2025,
+ "app_subtitle": "Brazil from the end of the Second World War to the present, 1945 – 2025",
+ "sources": [
+  "Boris Fausto, A Concise History of Brazil (Cambridge University Press)",
+  "Thomas E. Skidmore, Politics in Brazil, 1930–1964 and The Politics of Military Rule in Brazil, 1964–85",
+  "Lilia M. Schwarcz and Heloisa M. Starling, Brazil: A Biography",
+  "James N. Green, Victoria Langland and Lilia M. Schwarcz (eds.), The Brazil Reader",
+  "Comissão Nacional da Verdade, Relatório Final (2014)",
+  "IBGE, Censos Demográficos 1950–2022 and historical statistics",
+  "Embrapa and CONAB, history of soybean expansion in Brazil",
+  "INPE, PRODES Amazon deforestation monitoring",
+  "Susanna Hecht and Alexander Cockburn, The Fate of the Forest",
+  "Fundação Getulio Vargas, CPDOC, Dicionário Histórico-Biográfico Brasileiro"
+ ],
+ "links": {}
+}
