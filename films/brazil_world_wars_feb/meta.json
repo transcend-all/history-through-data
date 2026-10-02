@@ -1,0 +1,28 @@
+{
+ "slug": "a-cobra-fumou",
+ "title": {
+  "en": "A Cobra Fumou",
+  "pt": "A Cobra Fumou"
+ },
+ "subtitle": {
+  "en": "Brazil in the World Wars, 1914–1945",
+  "pt": "O Brasil nas guerras mundiais, 1914–1945"
+ },
+ "start": 1914,
+ "end": 1945,
+ "app_subtitle": "Brazil in the World Wars, from the U-boat war to the FEB in Italy, 1914 – 1945",
+ "sources": [
+  "Frank D. McCann, The Brazilian-American Alliance, 1937–1945 (Princeton University Press, 1973)",
+  "Frank D. McCann, Brazil and the United States during World War II and Its Aftermath (Palgrave Macmillan, 2018)",
+  "Stanley E. Hilton, Hitler's Secret War in South America, 1939–1945 (Louisiana State University Press, 1981)",
+  "Frederick C. Luebke, Germans in Brazil: A Comparative History of Cultural Conflict during World War I (LSU Press, 1987)",
+  "Seth Garfield, In Search of the Amazon: Brazil, the United States, and the Nature of a Region (Duke University Press, 2013)",
+  "J. B. Mascarenhas de Moraes, A FEB pelo seu comandante (1947)",
+  "Cesar Campiani Maximiano, Barbudos, sujos e fatigados: soldados brasileiros na Segunda Guerra Mundial (Grua, 2010)",
+  "Roney Cytrynowicz, Guerra sem guerra: a mobilização e o cotidiano em São Paulo durante a Segunda Guerra Mundial (2000)",
+  "Marinha do Brasil, Diretoria do Patrimônio Histórico e Documentação da Marinha: the DNOG and the Battle of the Atlantic",
+  "CPDOC / Fundação Getulio Vargas, Dicionário Histórico-Biográfico Brasileiro and the 'Era Vargas' dossiers",
+  "uboat.net, ships hit by German U-boats: Brazilian losses, 1942–1944"
+ ],
+ "links": {}
+}
