@@ -1,0 +1,27 @@
+{
+ "slug": "quilombo",
+ "title": {
+  "en": "Quilombo",
+  "pt": "Quilombo"
+ },
+ "subtitle": {
+  "en": "Slave resistance and the long road to abolition in Brazil, 1600–1888",
+  "pt": "A resistência escrava e o longo caminho da abolição no Brasil, 1600–1888"
+ },
+ "start": 1600,
+ "end": 1888,
+ "app_subtitle": "Slave resistance and the long road to abolition in Brazil, 1600 – 1888",
+ "sources": [
+  "Stuart B. Schwartz, Sugar Plantations in the Formation of Brazilian Society: Bahia, 1550–1835 (1985)",
+  "Stuart B. Schwartz, Slaves, Peasants, and Rebels: Reconsidering Brazilian Slavery (1992)",
+  "João José Reis, Slave Rebellion in Brazil: The Muslim Uprising of 1835 in Bahia (1993)",
+  "João José Reis & Flávio dos Santos Gomes (eds.), Liberdade por um fio: história dos quilombos no Brasil (1996)",
+  "Flávio dos Santos Gomes, Mocambos de Palmares (2010)",
+  "Robert Edgar Conrad, The Destruction of Brazilian Slavery, 1850–1888 (1972)",
+  "Emília Viotti da Costa, Da senzala à colônia (1966)",
+  "Lilia M. Schwarcz & Heloisa M. Starling, Brazil: A Biography (2018)",
+  "Slave Voyages: The Trans-Atlantic Slave Trade Database (slavevoyages.org)",
+  "Fundação Cultural Palmares; Arquivo Público do Estado do Espírito Santo"
+ ],
+ "links": {}
+}
