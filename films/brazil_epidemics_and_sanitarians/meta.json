@@ -1,0 +1,28 @@
+{
+ "slug": "o-imenso-hospital",
+ "title": {
+  "en": "O Imenso Hospital",
+  "pt": "O Imenso Hospital"
+ },
+ "subtitle": {
+  "en": "Brazil's war on yellow fever, plague and epidemics, 1849–1958",
+  "pt": "A guerra do Brasil contra a febre amarela, a peste e as epidemias, 1849–1958"
+ },
+ "start": 1849,
+ "end": 1958,
+ "app_subtitle": "Brazil's war on yellow fever, plague and epidemic disease, 1849 – 1958",
+ "sources": [
+  "Sidney Chalhoub, Cidade febril: cortiços e epidemias na Corte imperial (1996)",
+  "Jaime L. Benchimol, Dos micróbios aos mosquitos: febre amarela e a revolução pasteuriana no Brasil (1999)",
+  "Nicolau Sevcenko, A Revolta da Vacina: mentes insanas em corpos rebeldes (1984)",
+  "Gilberto Hochman, A era do saneamento: as bases da política de saúde pública no Brasil (1998)",
+  "Nísia Trindade Lima, Um sertão chamado Brasil (1999)",
+  "Nancy Leys Stepan, Beginnings of Brazilian Science (1976) and Eradication (2011)",
+  "Simone Petraglia Kropf, Doença de Chagas, doença do Brasil (2009)",
+  "Fred L. Soper and D. Bruce Wilson, Anopheles gambiae in Brazil, 1930 to 1940 (1943)",
+  "Casa de Oswaldo Cruz / Fiocruz, História, Ciências, Saúde – Manguinhos",
+  "Ministério da Saúde, A história da febre amarela no Brasil",
+  "Pan American Health Organization, 15th Pan American Sanitary Conference (1958)"
+ ],
+ "links": {}
+}
