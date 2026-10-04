@@ -1,0 +1,27 @@
+{
+ "slug": "nova-patria",
+ "title": {
+  "en": "Nova Pátria",
+  "pt": "Nova Pátria"
+ },
+ "subtitle": {
+  "en": "The immigrants who remade Brazil, 1818–1960",
+  "pt": "Os imigrantes que refizeram o Brasil, 1818–1960"
+ },
+ "start": 1818,
+ "end": 1960,
+ "app_subtitle": "The immigrants who remade Brazil, from the first colonies to the postwar ships, 1818 – 1960",
+ "sources": [
+  "Boris Fausto (ed.), Fazer a América: a imigração em massa para a América Latina (1999)",
+  "Herbert S. Klein, A imigração espanhola no Brasil (1994)",
+  "Jeffrey Lesser, Negotiating National Identity: Immigrants, Minorities and the Struggle for Ethnicity in Brazil (1999)",
+  "Jeffrey Lesser, Welcoming the Undesirables: Brazil and the Jewish Question (1995)",
+  "Giralda Seyferth, Nacionalismo e identidade étnica (1982)",
+  "Oswaldo Truzzi, Patrícios: sírios e libaneses em São Paulo (1997)",
+  "Thomas Davatz, Memórias de um colono no Brasil (first published in German, 1858)",
+  "IBGE, Brasil: 500 anos de povoamento (2000) and the censuses of 1872, 1920, 1940 and 1950",
+  "Museu da Imigração do Estado de São Paulo (the former Hospedaria de Imigrantes)",
+  "National Diet Library of Japan, 100 Years of Japanese Emigration to Brazil"
+ ],
+ "links": {}
+}
