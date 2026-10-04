@@ -1,0 +1,26 @@
+{
+ "slug": "aleluia",
+ "title": {
+  "en": "Aleluia",
+  "pt": "Aleluia"
+ },
+ "subtitle": {
+  "en": "The rise of evangelical Brazil, from Belém to the ballot box, 1910–2022",
+  "pt": "A ascensão do Brasil evangélico, de Belém às urnas, 1910–2022"
+ },
+ "start": 1910,
+ "end": 2022,
+ "app_subtitle": "The rise of evangelical Brazil, from Belém to the ballot box, 1910 – 2022",
+ "sources": [
+  "IBGE, Censo Demográfico (religion results, 1940–2022)",
+  "Paul Freston, Protestantes e política no Brasil: da Constituinte ao impeachment (1993)",
+  "Ricardo Mariano, Neopentecostais: sociologia do novo pentecostalismo no Brasil (1999)",
+  "Cesar Romero Jacob et al., Atlas da filiação religiosa e indicadores sociais no Brasil (2003)",
+  "Gedeon Freire de Alencar, Matriz pentecostal brasileira: Assembleias de Deus, 1911–2011 (2013)",
+  "Paul Freston, \"Breve história do pentecostalismo brasileiro\", in Nem anjos nem demônios (1994)",
+  "Pew Research Center, Religion in Latin America (2014)",
+  "José Eustáquio Diniz Alves, studies of the religious transition in Brazil (2018–2025)",
+  "Datafolha, voting-intention surveys by religion (2018, 2022)"
+ ],
+ "links": {}
+}
