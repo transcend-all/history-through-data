@@ -1,0 +1,27 @@
+{
+ "slug": "sertao",
+ "title": {
+  "en": "Sertão",
+  "pt": "Sertão"
+ },
+ "subtitle": {
+  "en": "Prophets and bandits of the Brazilian backlands, 1877–1938",
+  "pt": "Profetas e cangaceiros do sertão brasileiro, 1877–1938"
+ },
+ "start": 1877,
+ "end": 1938,
+ "app_subtitle": "Prophets and bandits of the Brazilian backlands, 1877 – 1938",
+ "sources": [
+  "Euclides da Cunha, Os Sertões (1902; Rebellion in the Backlands)",
+  "Robert M. Levine, Vale of Tears: Revisiting the Canudos Massacre in Northeastern Brazil, 1893–1897 (1992)",
+  "Ralph Della Cava, Miracle at Joaseiro (1970)",
+  "Todd A. Diacon, Millenarian Vision, Capitalist Reality: Brazil's Contestado Rebellion, 1912–1916 (1991)",
+  "Maurício Vinhas de Queiroz, Messianismo e conflito social: a Guerra Sertaneja do Contestado (1966)",
+  "Billy Jaynes Chandler, The Bandit King: Lampião of Brazil (1978)",
+  "Frederico Pernambucano de Mello, Guerreiros do sol: violência e banditismo no Nordeste do Brasil (1985)",
+  "Gerald Michael Greenfield, The Realm of Fortune: Drought and Society in Northeast Brazil (2001)",
+  "Kênia Sousa Rios, Campos de concentração no Ceará: isolamento e poder na seca de 1932 (2001)",
+  "CPDOC – Fundação Getulio Vargas, Dicionário da Primeira República (Sedição de Juazeiro; Guerra do Contestado)"
+ ],
+ "links": {}
+}
