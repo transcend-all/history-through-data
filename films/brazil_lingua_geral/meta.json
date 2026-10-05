@@ -1,0 +1,28 @@
+{
+ "slug": "lingua-geral",
+ "title": {
+  "en": "Língua Geral",
+  "pt": "Língua Geral"
+ },
+ "subtitle": {
+  "en": "How Brazil came to speak Portuguese, 1549–1877",
+  "pt": "Como o Brasil passou a falar português, 1549–1877"
+ },
+ "start": 1549,
+ "end": 1877,
+ "app_subtitle": "How Brazil came to speak Portuguese, 1549 – 1877",
+ "sources": [
+  "Aryon Dall'Igna Rodrigues, 'As línguas gerais sul-americanas', Papia 4 (1996)",
+  "José Ribamar Bessa Freire, Rio Babel: a história das línguas na Amazônia (2004)",
+  "John M. Monteiro, Negros da terra: índios e bandeirantes nas origens de São Paulo (1994)",
+  "Sérgio Buarque de Holanda, Raízes do Brasil (1936) and Caminhos e fronteiras (1957)",
+  "John Hemming, Red Gold: The Conquest of the Brazilian Indians (1978) and Amazon Frontier (1987)",
+  "Rita Heloísa de Almeida, O Diretório dos Índios: um projeto de civilização no Brasil do século XVIII (1997)",
+  "Mark Harris, Rebellion on the Amazon: The Cabanagem, Race, and Popular Culture in the North of Brazil (2010)",
+  "Eduardo de Almeida Navarro, Dicionário de tupi antigo (2013)",
+  "José de Anchieta, Arte de grammatica da lingoa mais usada na costa do Brasil (1595)",
+  "José Vieira Couto de Magalhães, O Selvagem (1876)",
+  "Barbara Weinstein, The Amazon Rubber Boom, 1850–1920 (1983)"
+ ],
+ "links": {}
+}
