@@ -1,0 +1,27 @@
+{
+ "slug": "o-imperio-por-um-fio",
+ "title": {
+  "en": "O Império por um Fio",
+  "pt": "O Império por um Fio"
+ },
+ "subtitle": {
+  "en": "Brazil's provincial rebellions, 1831–1849",
+  "pt": "As revoltas provinciais do Brasil, 1831–1849"
+ },
+ "start": 1831,
+ "end": 1849,
+ "app_subtitle": "Brazil's provincial rebellions, from the Cabanagem to the Praieira, 1831 – 1849",
+ "sources": [
+  "Boris Fausto, A Concise History of Brazil (Cambridge University Press)",
+  "Leslie Bethell (ed.), Brazil: Empire and Republic, 1822–1930 (Cambridge University Press)",
+  "Roderick J. Barman, Brazil: The Forging of a Nation, 1798–1852 (Stanford University Press)",
+  "Jeffrey D. Needell, The Party of Order: The Conservatives, the State, and Slavery in the Brazilian Monarchy, 1831–1871",
+  "Mark Harris, Rebellion on the Amazon: The Cabanagem, Race, and Popular Culture in the North of Brazil, 1798–1840",
+  "Matthias Röhrig Assunção, studies of the Balaiada and rural Maranhão",
+  "Paulo César Souza, A Sabinada: a revolta separatista da Bahia (1837)",
+  "João José Reis, Slave Rebellion in Brazil: The Muslim Uprising of 1835 in Bahia",
+  "Sandra Jatahy Pesavento, A Revolução Farroupilha",
+  "Lilia M. Schwarcz and Heloisa M. Starling, Brazil: A Biography"
+ ],
+ "links": {}
+}
