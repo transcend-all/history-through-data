@@ -1,0 +1,28 @@
+{
+ "slug": "soldados-de-cristo",
+ "title": {
+  "en": "Soldados de Cristo",
+  "pt": "Soldados de Cristo"
+ },
+ "subtitle": {
+  "en": "The Jesuit missions of Brazil, 1549–1759",
+  "pt": "As missões jesuíticas no Brasil, 1549–1759"
+ },
+ "start": 1549,
+ "end": 1759,
+ "app_subtitle": "The Jesuit missions of Brazil, from the first aldeias to the Guarani War and the expulsion, 1549 – 1759",
+ "sources": [
+  "Serafim Leite, História da Companhia de Jesus no Brasil (10 vols., 1938–1950)",
+  "John Hemming, Red Gold: The Conquest of the Brazilian Indians (1978)",
+  "Dauril Alden, The Making of an Enterprise: The Society of Jesus in Portugal, Its Empire, and Beyond, 1540–1750 (1996)",
+  "John M. Monteiro, Negros da terra: índios e bandeirantes nas origens de São Paulo (1994)",
+  "Antonio Ruiz de Montoya, Conquista espiritual (1639)",
+  "Barbara Ganson, The Guaraní under Spanish Rule in the Río de la Plata (2003)",
+  "Thomas M. Cohen, The Fire of Tongues: António Vieira and the Missionary Church in Brazil and Portugal (1998)",
+  "Kenneth Maxwell, Pombal: Paradox of the Enlightenment (1995)",
+  "Manuela Carneiro da Cunha (org.), História dos índios no Brasil (1992)",
+  "Rita Heloísa de Almeida, O Diretório dos Índios (1997)",
+  "IPHAN and UNESCO World Heritage: Jesuit Missions of the Guaranis (São Miguel das Missões)"
+ ],
+ "links": {}
+}
