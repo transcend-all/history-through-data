@@ -1,0 +1,27 @@
+{
+ "slug": "mata-atlantica",
+ "title": {
+  "en": "Mata Atlântica",
+  "pt": "Mata Atlântica"
+ },
+ "subtitle": {
+  "en": "The destruction of Brazil's Atlantic Forest, 1600–1990",
+  "pt": "A destruição da Mata Atlântica, 1600–1990"
+ },
+ "start": 1600,
+ "end": 1990,
+ "app_subtitle": "The destruction of Brazil's Atlantic Forest, 1600 – 1990",
+ "sources": [
+  "Warren Dean, With Broadax and Firebrand: The Destruction of the Brazilian Atlantic Forest (1995)",
+  "José Augusto Pádua, Um sopro de destruição: pensamento político e crítica ambiental no Brasil escravista, 1786–1888 (2002)",
+  "José Augusto Drummond, Devastação e preservação ambiental no Rio de Janeiro (1997)",
+  "Stanley J. Stein, Vassouras: A Brazilian Coffee County, 1850–1900 (1957)",
+  "Pierre Monbeig, Pionniers et planteurs de São Paulo (1952)",
+  "Stuart B. Schwartz, Sugar Plantations in the Formation of Brazilian Society: Bahia, 1550–1835 (1985)",
+  "John Hemming, Amazon Frontier: The Defeat of the Brazilian Indians (1987)",
+  "Fundação SOS Mata Atlântica and INPE, Atlas dos Remanescentes Florestais da Mata Atlântica (1990 onward)",
+  "ICMBio, Parque Nacional da Tijuca: history of the reforestation",
+  "Brazil, Código Florestal (Decreto 23.793, 1934) and Constituição Federal (1988), art. 225"
+ ],
+ "links": {}
+}
