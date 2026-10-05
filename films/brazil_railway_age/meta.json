@@ -1,0 +1,28 @@
+{
+ "slug": "caminhos-de-ferro",
+ "title": {
+  "en": "Caminhos de Ferro",
+  "pt": "Caminhos de Ferro"
+ },
+ "subtitle": {
+  "en": "The rise and decline of Brazil's railways, 1854–1964",
+  "pt": "Ascensão e declínio das ferrovias brasileiras, 1854–1964"
+ },
+ "start": 1854,
+ "end": 1964,
+ "app_subtitle": "The rise and decline of Brazil's railways, 1854 – 1964",
+ "sources": [
+  "William R. Summerhill, Order Against Progress: Government, Foreign Investment, and Railroads in Brazil, 1854–1913 (2003)",
+  "Richard Graham, Britain and the Onset of Modernization in Brazil, 1850–1914 (1968)",
+  "Colin M. Lewis, Public Policy and Private Initiative: Railway Building in São Paulo, 1860–1889 (1991)",
+  "Flávio A. M. de Saes, As ferrovias de São Paulo, 1870–1940 (1981)",
+  "Manoel Rodrigues Ferreira, A ferrovia do diabo (1959)",
+  "Francisco Foot Hardman, Trem fantasma: a ferrovia Madeira-Mamoré e a modernidade na selva (1988)",
+  "Todd A. Diacon, Millenarian Vision, Capitalist Reality: Brazil's Contestado Rebellion, 1912–1916 (1991)",
+  "Darcy Ribeiro, Os índios e a civilização (1970)",
+  "Maria Helena P. T. Machado, O plano e o pânico: os movimentos sociais na década da abolição (1994)",
+  "IBGE, Estatísticas históricas do Brasil (transport series)",
+  "Ministério dos Transportes / DNIT, histories of the RFFSA and of Brazil's railways"
+ ],
+ "links": {}
+}
