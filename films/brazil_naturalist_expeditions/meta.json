@@ -1,0 +1,28 @@
+{
+ "slug": "flora-brasiliensis",
+ "title": {
+  "en": "Flora Brasiliensis",
+  "pt": "Flora Brasiliensis"
+ },
+ "subtitle": {
+  "en": "The naturalists of Imperial Brazil, 1808–1889",
+  "pt": "Os naturalistas do Brasil imperial, 1808–1889"
+ },
+ "start": 1808,
+ "end": 1889,
+ "app_subtitle": "The European naturalists who mapped the plants, animals and peoples of Imperial Brazil, 1808 – 1889",
+ "sources": [
+  "Spix, J. B. von & Martius, C. F. P. von, Reise in Brasilien (1823–1831)",
+  "Martius, C. F. P. von et al., Flora Brasiliensis (1840–1906)",
+  "Saint-Hilaire, Auguste de, Voyages dans l'intérieur du Brésil (1830–1851)",
+  "Bates, Henry Walter, The Naturalist on the River Amazons (1863)",
+  "Wallace, Alfred Russel, A Narrative of Travels on the Amazon and Rio Negro (1853)",
+  "Agassiz, Louis & Elizabeth Cary Agassiz, A Journey in Brazil (1868)",
+  "Gardner, George, Travels in the Interior of Brazil (1846)",
+  "Silva, Danuzio Gil Bernardino da (ed.), Os diários de Langsdorff (Fiocruz, 1997–1998)",
+  "Lopes, Maria Margaret, O Brasil descobre a pesquisa científica: os museus e as ciências naturais no século XIX (1997)",
+  "Neves, W. A. et al., Early Holocene human skeletal remains from Sumidouro Cave (Journal of Human Evolution, 2007)",
+  "Museu Nacional / UFRJ and Jardim Botânico do Rio de Janeiro, institutional histories"
+ ],
+ "links": {}
+}
