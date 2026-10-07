@@ -1,0 +1,27 @@
+{
+ "slug": "luz-e-forca",
+ "title": {
+  "en": "Luz e Força",
+  "pt": "Luz e Força"
+ },
+ "subtitle": {
+  "en": "Electrifying Brazil, from the first street lamps to Itaipu, 1883–1984",
+  "pt": "A eletrificação do Brasil, dos primeiros lampiões a Itaipu, 1883–1984"
+ },
+ "start": 1883,
+ "end": 1984,
+ "app_subtitle": "Electrifying Brazil, from the first street lamps to Itaipu, 1883 – 1984",
+ "sources": [
+  "Centro da Memória da Eletricidade no Brasil, Panorama do setor de energia elétrica no Brasil (1988) and online chronology",
+  "Memória da Eletricidade, Caminhos da modernização: cronologia do setor de energia elétrica brasileiro, 1879–2007 (2008)",
+  "Duncan McDowall, The Light: Brazilian Traction, Light and Power Company Limited, 1899–1945 (University of Toronto Press, 1988)",
+  "Judith Tendler, Electric Power in Brazil: Entrepreneurship in the Public Sector (Harvard University Press, 1968)",
+  "Decreto nº 24.643, Código de Águas (10 July 1934)",
+  "FGV CPDOC, Dicionário Histórico-Biográfico Brasileiro and Atlas Histórico do Brasil",
+  "ONS, História da operação do sistema interligado nacional (2003)",
+  "CHESF and Itaipu Binacional, institutional histories",
+  "Lygia Sigaud, Efeitos sociais de grandes projetos hidrelétricos: as barragens de Sobradinho e Machadinho (Museu Nacional, 1986)",
+  "Instituto Socioambiental, Povos Indígenas no Brasil (Parakanã, Avá-Guarani)"
+ ],
+ "links": {}
+}
