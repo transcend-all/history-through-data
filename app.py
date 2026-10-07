@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 
 import streamlit as st
+import streamlit.components.v1 as components_v1
 from streamlit.components.v2 import component
 
 HERE = Path(__file__).parent
@@ -32,8 +33,11 @@ def film_page(f: dict):
         if links:
             for col, (lbl, url) in zip(st.columns(len(links) + 3)[:len(links)], links):
                 col.link_button(lbl, url, width="stretch")
-        viewer(key=f"viewer-{f['dir']}", data=json.loads((d / "data.json").read_text()))
-        st.caption("Regions are today's states; dates are approximate. Press ▶ to play, drag the slider to browse.")
+        if (d / "page.html").exists():          # a film's own interactive page (e.g. an election results map)
+            components_v1.html((d / "page.html").read_text(), height=820, scrolling=True)
+        else:
+            viewer(key=f"viewer-{f['dir']}", data=json.loads((d / "data.json").read_text()))
+            st.caption("Regions are today's states; dates are approximate. Press ▶ to play, drag the slider to browse.")
         if f.get("sources"):
             with st.expander("Sources"):
                 st.markdown("\n".join(f"- {s}" for s in f["sources"]))

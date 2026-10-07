@@ -1,0 +1,20 @@
+{
+ "slug": "brazil-2026-first-round",
+ "title": {
+  "en": "Brazil 2026: The Presidential Election, First Round",
+  "pt": "Brasil 2026: A Eleição Presidencial, Primeiro Turno"
+ },
+ "subtitle": {
+  "en": "4 October 2026 · official results by state and municipality",
+  "pt": "4 de outubro de 2026 · resultados oficiais por estado e município"
+ },
+ "app_subtitle": "History in the Making · 4 October 2026 · official TSE results by state and municipality",
+ "start": 2026,
+ "end": 2026,
+ "custom_page": true,
+ "sources": [
+  "Tribunal Superior Eleitoral (TSE): official results of the 2026 first round (5 Oct 2026); open data 2002–2022.",
+  "IBGE: state and municipal boundaries."
+ ],
+ "links": {}
+}
