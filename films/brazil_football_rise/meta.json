@@ -1,0 +1,26 @@
+{
+ "slug": "o-jogo-do-povo",
+ "title": {
+  "en": "O Jogo do Povo",
+  "pt": "O Jogo do Povo"
+ },
+ "subtitle": {
+  "en": "How a British import became Brazilian football, 1894–1970",
+  "pt": "Como um esporte inglês virou o futebol brasileiro, 1894–1970"
+ },
+ "start": 1894,
+ "end": 1970,
+ "app_subtitle": "How a British import became Brazilian football, 1894 – 1970",
+ "sources": [
+  "Alex Bellos, Futebol: The Brazilian Way of Life (2002)",
+  "Mário Filho, O Negro no Futebol Brasileiro (1947)",
+  "David Goldblatt, Futebol Nation: A Footballing History of Brazil (2014)",
+  "Leonardo Affonso de Miranda Pereira, Footballmania: uma história social do futebol no Rio de Janeiro, 1902–1938 (2000)",
+  "Gilberto Freyre, \"Foot-ball mulato\", Diario de Pernambuco (1938)",
+  "Museu do Futebol, São Paulo",
+  "RSSSF Brasil, state championship records",
+  "Confederação Brasileira de Futebol (CBF), historical titles",
+  "FIFA, World Cup records 1930–1970"
+ ],
+ "links": {}
+}
