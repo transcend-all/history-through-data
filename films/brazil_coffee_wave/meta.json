@@ -1,0 +1,27 @@
+{
+ "slug": "ouro-verde",
+ "title": {
+  "en": "Ouro Verde",
+  "pt": "Ouro Verde"
+ },
+ "subtitle": {
+  "en": "How coffee crossed Brazil and burned out the land behind it, 1760–1975",
+  "pt": "Como o café atravessou o Brasil e esgotou a terra por onde passou, 1760–1975"
+ },
+ "start": 1760,
+ "end": 1975,
+ "app_subtitle": "How coffee crossed Brazil and burned out the land behind it, 1760 – 1975",
+ "sources": [
+  "Warren Dean, With Broadax and Firebrand: The Destruction of the Brazilian Atlantic Forest (1995)",
+  "Stanley J. Stein, Vassouras: A Brazilian Coffee County, 1850–1900 (1957)",
+  "Warren Dean, Rio Claro: A Brazilian Plantation System, 1820–1920 (1976)",
+  "Thomas H. Holloway, Immigrants on the Land: Coffee and Society in São Paulo, 1886–1934 (1980)",
+  "Pierre Monbeig, Pionniers et planteurs de São Paulo (1952)",
+  "Affonso de E. Taunay, História do Café no Brasil (1939–1943)",
+  "Steven Topik & William Gervase Clarence-Smith (eds.), The Global Coffee Economy in Africa, Asia and Latin America, 1500–1989 (2003)",
+  "Mark Pendergrast, Uncommon Grounds: The History of Coffee and How It Transformed Our World (2010)",
+  "CPDOC / Fundação Getulio Vargas, Dicionário da Primeira República: Convênio de Taubaté",
+  "Companhia Melhoramentos Norte do Paraná, company history; Folha de Londrina and Gazeta do Povo on the 1975 black frost"
+ ],
+ "links": {}
+}
