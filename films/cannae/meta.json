@@ -1,0 +1,21 @@
+{
+ "slug": "cannae",
+ "title": {
+  "en": "Cannae, 216 BC",
+  "pt": "Canas, 216 a.C."
+ },
+ "subtitle": {
+  "en": "Hannibal's perfect victory, phase by phase",
+  "pt": "A vitória perfeita de Aníbal, fase a fase"
+ },
+ "app_subtitle": "Hannibal's perfect victory · play the battle phase by phase, or follow the march from Spain",
+ "start": -218,
+ "end": -216,
+ "custom_page": true,
+ "sources": [
+  "Polybius, Histories 3.107–118",
+  "Livy, History of Rome 22.36–61",
+  "Positions are a schematic reconstruction after Polybius and Livy."
+ ],
+ "links": {}
+}
