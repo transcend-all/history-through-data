@@ -1,0 +1,27 @@
+{
+ "slug": "rios-de-guerra",
+ "title": {
+  "en": "Rios de Guerra",
+  "pt": "Rios de Guerra"
+ },
+ "subtitle": {
+  "en": "Brazil's wars of the River Plate, 1850–1876",
+  "pt": "As guerras do Brasil no Prata, 1850–1876"
+ },
+ "start": 1850,
+ "end": 1876,
+ "app_subtitle": "Brazil's wars of the River Plate, from Caseros to the occupation of Asunción, 1850 – 1876",
+ "sources": [
+  "Francisco Doratioto, Maldita Guerra: nova história da Guerra do Paraguai (2002)",
+  "Thomas L. Whigham, The Paraguayan War, vol. 1: Causes and Early Conduct (2002)",
+  "Thomas L. Whigham, The Road to Armageddon: Paraguay versus the Triple Alliance, 1866–70 (2017)",
+  "Hendrik Kraay and Thomas L. Whigham (eds.), I Die with My Country: Perspectives on the Paraguayan War (2004)",
+  "Vitor Izecksohn, Slavery and War in the Americas: Race, Citizenship and State Building (2014)",
+  "Ricardo Salles, Guerra do Paraguai: escravidão e cidadania na formação do exército (1990)",
+  "Leslie Bethell (ed.), The Cambridge History of Latin America, vol. 3 (1985)",
+  "Alfredo d'Escragnolle Taunay, A Retirada da Laguna (1871)",
+  "José Murilo de Carvalho, D. Pedro II (2007)",
+  "Arquivo Nacional and Biblioteca Nacional, Rio de Janeiro: decrees and war iconography"
+ ],
+ "links": {}
+}
