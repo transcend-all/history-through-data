@@ -1,0 +1,27 @@
+{
+ "slug": "montanhas-de-ferro",
+ "title": {
+  "en": "Montanhas de Ferro",
+  "pt": "Montanhas de Ferro"
+ },
+ "subtitle": {
+  "en": "Iron, gold and mud in Brazil, from Itabira to Brumadinho, 1909–2019",
+  "pt": "Ferro, ouro e lama no Brasil, de Itabira a Brumadinho, 1909–2019"
+ },
+ "start": 1909,
+ "end": 2019,
+ "app_subtitle": "Iron, gold and mud: Brazil's mining frontier, from Itabira to Brumadinho, 1909 – 2019",
+ "sources": [
+  "Companhia Vale do Rio Doce, Vale: Our History (Vale History Center)",
+  "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro: Itabira Iron Ore Company; Percival Farquhar",
+  "Charles A. Gauld, The Last Titan: Percival Farquhar, American Entrepreneur in Latin America (1964)",
+  "Foreign Relations of the United States 1942, vol. V: Brazil (US Department of State)",
+  "Sebastião Salgado, Gold (Taschen, 2019): photographs of Serra Pelada",
+  "CETEM (Centro de Tecnologia Mineral), case entries on the Tapajós garimpos and Rondônia's cassiterite",
+  "Bruce Albert and Davi Kopenawa, The Falling Sky (2013); Instituto Socioambiental, Povos Indígenas no Brasil",
+  "Ministério Público Federal and Minas Gerais state reports on the Fundão (2015) and Córrego do Feijão (2019) dams",
+  "Robertson, P. K. et al., Report of the Expert Panel on the Technical Causes of the Failure of Feijão Dam I (2019)",
+  "Machado, I. F. and Figueirôa, S. F. de M., 'Mining history of Brazil: a summary', Mineral Economics (2022)"
+ ],
+ "links": {}
+}
