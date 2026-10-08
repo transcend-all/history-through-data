@@ -1,0 +1,27 @@
+{
+ "slug": "asas-do-brasil",
+ "title": {
+  "en": "Asas do Brasil",
+  "pt": "Asas do Brasil"
+ },
+ "subtitle": {
+  "en": "Brazil takes to the air, from Santos-Dumont to Embraer, 1906–1969",
+  "pt": "O Brasil ganha os céus, de Santos-Dumont à Embraer, 1906–1969"
+ },
+ "start": 1906,
+ "end": 1969,
+ "app_subtitle": "Brazil takes to the air, from Santos-Dumont's 14-bis to Embraer, 1906 – 1969",
+ "sources": [
+  "Paul Hoffman, Wings of Madness: Alberto Santos-Dumont and the Invention of Flight (2003)",
+  "Instituto Histórico-Cultural da Aeronáutica (INCAER), História Geral da Aeronáutica Brasileira",
+  "INCAER, A Saga do Correio Aéreo Nacional",
+  "R. E. G. Davies, Airlines of Latin America since 1919 (1984)",
+  "Frank D. McCann, The Brazilian-American Alliance, 1937–1945 (1973)",
+  "Stetson Conn and Byron Fairchild, The Framework of Hemisphere Defense (US Army in World War II, 1960)",
+  "Daniel Leb Sasaki, Pouso forçado: a história por trás da destruição da Panair do Brasil (2005)",
+  "Orlando and Cláudio Villas Bôas, A marcha para o Oeste (1994)",
+  "Ozires Silva, A decolagem de um sonho: a história da criação da Embraer (1998)",
+  "Museu Aeroespacial (MUSAL) and the Instituto Tecnológico de Aeronáutica (ITA), institutional histories"
+ ],
+ "links": {}
+}
