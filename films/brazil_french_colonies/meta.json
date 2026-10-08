@@ -1,0 +1,27 @@
+{
+ "slug": "pau-brasil-e-flor-de-lis",
+ "title": {
+  "en": "Pau-Brasil e Flor-de-Lis",
+  "pt": "Pau-Brasil e Flor-de-Lis"
+ },
+ "subtitle": {
+  "en": "France in Brazil, from Guanabara Bay to São Luís, 1555–1615",
+  "pt": "A França no Brasil, da Baía de Guanabara a São Luís, 1555–1615"
+ },
+ "start": 1555,
+ "end": 1615,
+ "app_subtitle": "France's attempts to colonise Brazil, from Guanabara Bay to São Luís, 1555 – 1615",
+ "sources": [
+  "Jean de Léry, Histoire d'un voyage faict en la terre du Brésil (1578)",
+  "André Thevet, Les Singularitez de la France antarctique (1557)",
+  "Claude d'Abbeville, Histoire de la mission des pères capucins en l'isle de Maragnan (1614)",
+  "Yves d'Évreux, Suitte de l'histoire des choses plus memorables advenues en Maragnan (1615)",
+  "John Hemming, Red Gold: The Conquest of the Brazilian Indians (1978)",
+  "Frank Lestringant, Le Huguenot et le sauvage (1990)",
+  "Vasco Mariz & Lucien Provençal, Villegagnon e a França Antártica (2000)",
+  "Andrea Daher, O Brasil francês: as singularidades da França Equinocial, 1612–1615 (2007)",
+  "Capistrano de Abreu, Capítulos de história colonial (1907)",
+  "Boris Fausto, História do Brasil (1994)"
+ ],
+ "links": {}
+}
