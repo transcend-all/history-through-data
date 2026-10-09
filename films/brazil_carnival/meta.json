@@ -1,0 +1,28 @@
+{
+ "slug": "abre-alas",
+ "title": {
+  "en": "Abre Alas",
+  "pt": "Abre Alas"
+ },
+ "subtitle": {
+  "en": "How Carnival conquered Brazil, 1840–1984",
+  "pt": "Como o Carnaval conquistou o Brasil, 1840–1984"
+ },
+ "start": 1840,
+ "end": 1984,
+ "app_subtitle": "How Carnival conquered Brazil, from the entrudo to the Sambódromo, 1840 – 1984",
+ "sources": [
+  "Maria Isaura Pereira de Queiroz, Carnaval brasileiro: o vivido e o mito (1992)",
+  "Maria Clementina Pereira Cunha, Ecos da folia: uma história social do carnaval carioca entre 1880 e 1920 (2001)",
+  "Felipe Ferreira, O livro de ouro do carnaval brasileiro (2004)",
+  "Hiram Araújo, Carnaval: seis milênios de história (2000)",
+  "Sérgio Cabral, As escolas de samba do Rio de Janeiro (1996)",
+  "Hermano Vianna, O mistério do samba (1995)",
+  "Rita de Cássia Barbosa de Araújo, Festas: máscaras do tempo (1996)",
+  "Antônio Risério, Carnaval ijexá (1981)",
+  "IPHAN, heritage dossiers on frevo, the matrizes do samba and the bumba-meu-boi of Maranhão",
+  "Arquivo Nacional, O Brasil oitocentista: a repressão ao entrudo",
+  "Fundação Joaquim Nabuco, Pesquisa Escolar (Recife's carnival clubs)"
+ ],
+ "links": {}
+}
