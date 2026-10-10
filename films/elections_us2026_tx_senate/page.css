@@ -1,0 +1,37 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,600;0,700;1,600&family=Libre+Franklin:ital,wght@0,400;0,600;1,400&display=block');
+:root{--sea:#1E3352;--sea-deep:#122036;--shade:12,18,30;--neighbor:#36496A;--neighbor-edge:#5A6E90;--glaze:#F8F4EA;--gold:#C79A4B;--gold-bright:#E8C46F;--accent:#9B2335;--accent-hover:#B32B40;--ink:#1B2233;--ink-muted:#5B6172;--paper:#F2EBDB;--font-display:'Zilla Slab', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--font-body:'Libre Franklin', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--cobalt:#1E3352;--cobalt-deep:#122036;--wine:#9B2335;}
+.stApp {
+  background-color: #F2EBDB;
+  background-image: linear-gradient(rgba(242,235,219,.93), rgba(242,235,219,.93)), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDk2IDk2Ij48ZyBmaWxsPSIjMUUzMzUyIj48cGF0aCBkPSJNNDguMDAsMzEuNjhMNTEuODQsNDIuNzJMNjMuNTIsNDIuOTZMNTQuMjEsNTAuMDJMNTcuNTksNjEuMjBMNDguMDAsNTQuNTNMMzguNDEsNjEuMjBMNDEuNzksNTAuMDJMMzIuNDgsNDIuOTZMNDQuMTYsNDIuNzJaIi8+PHBhdGggZD0iTTAuMDAsLTcuNjhMMS44MSwtMi40OUw3LjMwLC0yLjM3TDIuOTIsMC45NUw0LjUxLDYuMjFMMC4wMCwzLjA3TC00LjUxLDYuMjFMLTIuOTIsMC45NUwtNy4zMCwtMi4zN0wtMS44MSwtMi40OVoiLz48cGF0aCBkPSJNOTYuMDAsLTcuNjhMOTcuODEsLTIuNDlMMTAzLjMwLC0yLjM3TDk4LjkyLDAuOTVMMTAwLjUxLDYuMjFMOTYuMDAsMy4wN0w5MS40OSw2LjIxTDkzLjA4LDAuOTVMODguNzAsLTIuMzdMOTQuMTksLTIuNDlaIi8+PHBhdGggZD0iTTAuMDAsODguMzJMMS44MSw5My41MUw3LjMwLDkzLjYzTDIuOTIsOTYuOTVMNC41MSwxMDIuMjFMMC4wMCw5OS4wN0wtNC41MSwxMDIuMjFMLTIuOTIsOTYuOTVMLTcuMzAsOTMuNjNMLTEuODEsOTMuNTFaIi8+PHBhdGggZD0iTTk2LjAwLDg4LjMyTDk3LjgxLDkzLjUxTDEwMy4zMCw5My42M0w5OC45Miw5Ni45NUwxMDAuNTEsMTAyLjIxTDk2LjAwLDk5LjA3TDkxLjQ5LDEwMi4yMUw5My4wOCw5Ni45NUw4OC43MCw5My42M0w5NC4xOSw5My41MVoiLz48L2c+PGcgc3Ryb2tlPSIjMUUzMzUyIiBzdHJva2Utd2lkdGg9IjAuOCIgb3BhY2l0eT0iLjUiPjxwYXRoIGQ9Ik0wIDc4LjcySDk2TTAgODYuNEg5NiIvPjwvZz48L3N2Zz4=");
+}
+html, body, .stApp, .stMarkdown, p, li, label { font-family: 'Libre Franklin', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif; color: #1B2233; }
+h1, h2, h3, h4 { font-family: 'Zilla Slab', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif !important; color: #122036 !important; }
+.block-container { padding-top: 3.6rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+.tile-band {
+  height: 44px; margin: 0 0 1rem 0;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIGZpbGw9IiNGOEY0RUEiLz48ZyBmaWxsPSIjMUUzMzUyIj48cGF0aCBkPSJNMjIuMDAsMTQuNTJMMjMuNzYsMTkuNThMMjkuMTEsMTkuNjlMMjQuODUsMjIuOTJMMjYuNDAsMjguMDVMMjIuMDAsMjQuOTlMMTcuNjAsMjguMDVMMTkuMTUsMjIuOTJMMTQuODksMTkuNjlMMjAuMjQsMTkuNThaIi8+PHBhdGggZD0iTTAuMDAsLTMuNTJMMC44MywtMS4xNEwzLjM1LC0xLjA5TDEuMzQsMC40NEwyLjA3LDIuODVMMC4wMCwxLjQxTC0yLjA3LDIuODVMLTEuMzQsMC40NEwtMy4zNSwtMS4wOUwtMC44MywtMS4xNFoiLz48cGF0aCBkPSJNNDQuMDAsLTMuNTJMNDQuODMsLTEuMTRMNDcuMzUsLTEuMDlMNDUuMzQsMC40NEw0Ni4wNywyLjg1TDQ0LjAwLDEuNDFMNDEuOTMsMi44NUw0Mi42NiwwLjQ0TDQwLjY1LC0xLjA5TDQzLjE3LC0xLjE0WiIvPjxwYXRoIGQ9Ik0wLjAwLDQwLjQ4TDAuODMsNDIuODZMMy4zNSw0Mi45MUwxLjM0LDQ0LjQ0TDIuMDcsNDYuODVMMC4wMCw0NS40MUwtMi4wNyw0Ni44NUwtMS4zNCw0NC40NEwtMy4zNSw0Mi45MUwtMC44Myw0Mi44NloiLz48cGF0aCBkPSJNNDQuMDAsNDAuNDhMNDQuODMsNDIuODZMNDcuMzUsNDIuOTFMNDUuMzQsNDQuNDRMNDYuMDcsNDYuODVMNDQuMDAsNDUuNDFMNDEuOTMsNDYuODVMNDIuNjYsNDQuNDRMNDAuNjUsNDIuOTFMNDMuMTcsNDIuODZaIi8+PC9nPjxnIHN0cm9rZT0iIzFFMzM1MiIgc3Ryb2tlLXdpZHRoPSIxLjIiIG9wYWNpdHk9Ii41Ij48cGF0aCBkPSJNMCAzNi4wOEg0NE0wIDM5LjZINDQiLz48L2c+PC9zdmc+") repeat-x;
+  border-top: 4px solid #C79A4B; border-bottom: 4px solid #C79A4B;
+  box-shadow: 0 1px 0 #122036, 0 -1px 0 #122036;
+}
+.title-block h1 { font-size: 2.9rem; font-weight: 800; margin: 0; line-height: 1.05; }
+.title-block .subtitle { font-style: italic; color: #5B6172; font-size: 1.1rem; margin: .2rem 0 1rem; }
+a.dl {
+  display: inline-block; padding: .45rem .9rem; border-radius: 6px; text-decoration: none !important;
+  background: #9B2335; color: #F8F4EA !important; border: 2px solid #C79A4B; font-weight: 600;
+}
+a.dl:hover { background: #B32B40; }
+a.dl.small { padding: .25rem .6rem; font-size: .9rem; font-weight: 400; background: #F8F4EA;
+  color: #122036 !important; border: 1.5px solid #1E3352; }
+a.dl.small:hover { border-color: #C79A4B; color: #9B2335 !important; }
+h4 { margin-top: .4rem !important; }
+[data-testid="stDownloadButton"] button {
+  background: #9B2335; color: #F8F4EA; border: 2px solid #C79A4B; font-weight: 600;
+}
+[data-testid="stDownloadButton"] button:hover { background: #B32B40; color: #fff; border-color: #C79A4B; }
+[data-testid="stDownloadButton"] button * { color: inherit !important; }
+.st-key-chapters [data-testid="stVerticalBlock"] { gap: .15rem; }
+.st-key-chapters button { justify-content: flex-start; min-height: 0; padding: .15rem 0; }
+</style>
