@@ -1,0 +1,28 @@
+{
+ "slug": "pau-de-arara",
+ "title": {
+  "en": "Pau-de-arara",
+  "pt": "Pau-de-arara"
+ },
+ "subtitle": {
+  "en": "The great Northeastern migration to São Paulo, Rio and Brasília, 1930–1990",
+  "pt": "A grande migração nordestina para São Paulo, Rio e Brasília, 1930–1990"
+ },
+ "start": 1930,
+ "end": 1990,
+ "app_subtitle": "The great Northeastern migration to São Paulo, Rio and Brasília, 1930 – 1990",
+ "sources": [
+  "IBGE, Censos Demográficos 1940–1991",
+  "Museu da Imigração do Estado de São Paulo, Hospedaria de Imigrantes do Brás records",
+  "Paulo Fontes, Um Nordeste em São Paulo: trabalhadores migrantes em São Miguel Paulista (FGV, 2008)",
+  "Kênia Sousa Rios, Campos de concentração no Ceará: isolamento e poder na seca de 1932 (2001)",
+  "Gustavo Lins Ribeiro, O capital da esperança: a experiência dos trabalhadores na construção de Brasília (2008)",
+  "Celso Furtado, A operação Nordeste (1959) and SUDENE reports on the 1958 drought",
+  "Durval Muniz de Albuquerque Jr., A invenção do Nordeste e outras artes (1999)",
+  "Thomas E. Skidmore, Brazil: Five Centuries of Change (1999)",
+  "Janice Perlman, The Myth of Marginality: Urban Poverty and Politics in Rio de Janeiro (1976)",
+  "Memorial da Democracia and CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+  "NEPO/Unicamp, studies of internal migration in Brazil"
+ ],
+ "links": {}
+}
