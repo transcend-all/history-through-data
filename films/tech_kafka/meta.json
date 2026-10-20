@@ -1,0 +1,26 @@
+{
+ "slug": "the-log-at-the-centre",
+ "title": {
+  "en": "The Log at the Centre"
+ },
+ "subtitle": {
+  "en": "Apache Kafka and the stream of events, 2010–2026"
+ },
+ "start": 2010,
+ "end": 2026,
+ "app_subtitle": "Apache Kafka and the stream of events, 2010 – 2026",
+ "sources": [
+  "J. Kreps, N. Narkhede and J. Rao, \"Kafka: a Distributed Messaging System for Log Processing\", NetDB 2011 (Athens, 12 June 2011)",
+  "J. Kreps, \"The Log: What every software engineer should know about real-time data's unifying abstraction\", LinkedIn Engineering, 16 December 2013; and I Heart Logs (O'Reilly, 2014)",
+  "Apache Kafka documentation (kafka.apache.org): Introduction, Design, Operations (consumer rebalance protocol), upgrade notes 3.0; release announcements 2.8.0, 3.3, 3.6.0, 3.9.0, 4.0.0, 4.2.0, 4.3.0; front page (Fortune 100 figure, October 2026)",
+  "Apache Incubator, Kafka project status page (incubation 4 July 2011, graduation 23 October 2012); ASF, \"The Apache Software Foundation Announces Apache Kafka v1.0.0\", 1 November 2017",
+  "Kafka Improvement Proposals KIP-500 (ZooKeeper replacement), KIP-679 (producer defaults), KIP-833 (KRaft production ready), KIP-405 (tiered storage), KIP-848 (consumer rebalance protocol), KIP-932 (queues)",
+  "N. Narkhede, \"Exactly-once Semantics Are Possible: Here's How Kafka Does It\", Confluent blog, 30 June 2017",
+  "LinkedIn Engineering: J. Lee and W. Wu, \"How LinkedIn customizes Apache Kafka for 7 trillion messages per day\" (8 October 2019); Northguard and Xinfra (June 2025), as reported by InfoQ and BigDATAwire",
+  "Confluent: \"Apache Kafka Hits 1.1 Trillion Messages Per Day\" (September 2015); press releases on Kafka Summit 2016, Confluent Cloud (May and November 2017) and the pricing of its IPO (23 June 2021)",
+  "B. Svingen, \"Publishing with Apache Kafka at The New York Times\", Confluent blog, September 2017",
+  "Fortune, \"LinkedIn's Kafka creators launch Confluent\" (6 November 2014); IBM announcement (8 December 2025) and Form 10-Q for the first quarter of 2026 (completion on 17 March 2026)",
+  "Announcements from Amazon (MSK preview, 28 November 2018; general availability, 30 May 2019), Microsoft (Event Hubs for Apache Kafka, 14 November 2018) and Google Cloud (Managed Service for Apache Kafka, 12 November 2024)"
+ ],
+ "links": {}
+}
