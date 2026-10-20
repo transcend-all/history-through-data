@@ -1,0 +1,25 @@
+{
+ "slug": "a-log-on-the-lake",
+ "title": {
+  "en": "A Log on the Lake"
+ },
+ "subtitle": {
+  "en": "Databricks and the lakehouse, 2013–2026"
+ },
+ "start": 2013,
+ "end": 2026,
+ "app_subtitle": "Databricks and the lakehouse, 2013 – 2026",
+ "sources": [
+  "M. Armbrust et al., \"Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores\", PVLDB 13(12): 3411–3424, VLDB 2020",
+  "M. Armbrust, A. Ghodsi, R. Xin and M. Zaharia, \"Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics\", CIDR 2021",
+  "A. Behm et al., \"Photon: A Fast Query Engine for Lakehouse Systems\", SIGMOD 2022 (best industry paper)",
+  "Delta Lake protocol (PROTOCOL.md, github.com/delta-io/delta) and release notes 1.0.0–4.4.1; delta.io blog; Linux Foundation press releases (16 October 2019; Delta Lake 3.0, 18 October 2023)",
+  "Databricks documentation (docs.databricks.com): Delta table history and time travel, VACUUM, medallion architecture, Unity Catalog, pricing and serverless compute (October 2026)",
+  "Databricks blog and press releases: Databricks Cloud (30 June 2014); general availability (15 June 2015); leadership change (11 January 2016); \"What Is a Lakehouse?\" (30 January 2020); TPC-DS record (2 November 2021) and reply (15 November 2021); \"Open Sourcing All of Delta Lake\" (30 June 2022); MosaicML (2023); Tabular (4 June 2024); open-sourcing Unity Catalog (12 June 2024); Neon (14 May 2025); Free Edition (11 June 2025); funding and results (17 December 2024; 9 February and 13 August 2026)",
+  "TPC, TPC-DS full disclosure report, Databricks SQL 8.3, 2 November 2021; B. Dageville and T. Cruanes, \"Industry Benchmarks and Competing with Integrity\", Snowflake blog, 12 November 2021",
+  "Apache Software Foundation: Iceberg incubation and graduation records; Hudi graduation announcement (4 June 2020); Apache Polaris graduation (2026); Apache Iceberg table spec v3; Unity Catalog releases (github.com/unitycatalog)",
+  "Announcements from Microsoft (Connect(); 15 November 2017; Azure Databricks GA, 22 March 2018), Google Cloud (17 February and 4 May 2021), Amazon Web Services (October 2024) and Snowflake (Bozeman, May 2021; Polaris, 3 June 2024; Crunchy Data, 2 June 2025)",
+  "Reporting by TechCrunch, CNBC, Bloomberg, The Wall Street Journal and BigDATAwire, 2013–2026 (founding round, Tabular price, valuations); customer stories from AT&T (Databricks blog, 11 April 2022) and Walgreens"
+ ],
+ "links": {}
+}
