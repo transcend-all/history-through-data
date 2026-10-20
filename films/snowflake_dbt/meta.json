@@ -1,0 +1,25 @@
+{
+ "slug": "cold-storage-clean-code",
+ "title": {
+  "en": "Cold Storage, Clean Code",
+  "pt": "Armazenamento frio, código limpo"
+ },
+ "subtitle": {
+  "en": "How Snowflake and dbt reshaped the data warehouse",
+  "pt": "Como Snowflake e dbt transformaram o data warehouse"
+ },
+ "start": 2010,
+ "end": 2026,
+ "app_subtitle": "How Snowflake and dbt reshaped the data warehouse, 2010 – 2026",
+ "sources": [
+  "B. Dageville et al., \"The Snowflake Elastic Data Warehouse\", SIGMOD 2016",
+  "Snowflake Inc., Form S-1 registration statement and prospectus (SEC, August–September 2020); Snowflake press releases, 2014–2025",
+  "Amazon Web Services, \"Amazon Redshift\" announcement (re:Invent, November 2012) and general availability (February 2013)",
+  "Google, BigQuery announcement (Google I/O, May 2010)",
+  "dbt Labs, company history and blog (getdbt.com); T. Handy, \"The dbt Viewpoint\"; dbt Fusion announcement (2025)",
+  "Snowflake, \"Snowflake to Acquire Streamlit\" (March 2022); Snowflake, chief executive announcement (February 2024)",
+  "dbt Labs and Fivetran, merger announcements (2025–2026)",
+  "Snowflake Summit and Coalesce conference archives"
+ ],
+ "links": {}
+}
