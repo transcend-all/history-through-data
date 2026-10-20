@@ -22,5 +22,7 @@
   "Announcements from IBM (June 2015), Amazon (EMR, June 2015; Glue, August 2017), Google (Cloud Dataproc, September 2015), Microsoft (Azure Databricks, March 2018; Fabric, November 2023) and Snowflake (Snowpark Connect for Spark, 2025)",
   "R. Xin, interview with S. Chakrabarti, Engineers of Scale, \"From Spark to Databricks\" (on Spark's origins and the Netflix Prize); The Register and BigDATAwire reporting, 2013–2026"
  ],
- "links": {}
+ "links": {
+  "youtube": "https://youtu.be/s41i-V4iq2c"
+ }
 }
