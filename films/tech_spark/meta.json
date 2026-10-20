@@ -1,0 +1,26 @@
+{
+ "slug": "in-memory-and-lazy",
+ "title": {
+  "en": "In Memory, and Lazy"
+ },
+ "subtitle": {
+  "en": "Apache Spark and the engine after MapReduce, 2009–2026"
+ },
+ "start": 2009,
+ "end": 2026,
+ "app_subtitle": "Apache Spark and the engine after MapReduce, 2009 – 2026",
+ "sources": [
+  "M. Zaharia, M. Chowdhury, M. J. Franklin, S. Shenker and I. Stoica, \"Spark: Cluster Computing with Working Sets\", HotCloud 2010",
+  "M. Zaharia et al., \"Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing\", NSDI 2012 (best paper)",
+  "M. Zaharia et al., \"Discretized Streams: Fault-Tolerant Streaming Computation at Scale\", SOSP 2013; M. Armbrust et al., \"Structured Streaming\", SIGMOD 2018",
+  "M. Armbrust et al., \"Spark SQL: Relational Data Processing in Spark\", SIGMOD 2015",
+  "Apache Spark documentation (spark.apache.org): History, RDD Programming Guide, SQL Performance Tuning (4.2.0); release notes 1.3.0, 2.0.0, 2.2.0, 3.0.0, 4.0.0, 4.2.0; news archive 2013–2026",
+  "Apache Software Foundation, \"The ASF Announces Apache Spark as a Top-Level Project\", 27 February 2014",
+  "Databricks blog: R. Xin, \"Spark officially sets a new record in large-scale sorting\" (5 November 2014); \"Spark turns five years old\" (31 March 2015); press release on Declarative Pipelines (11 June 2025)",
+  "UC Berkeley: AMPLab news (NSF Expeditions award, 29 March 2012; NSDI best paper, April 2012; first Spark Summit, 2013); \"AMPLab ends, RISELab begins\" (2016); CDSS on the ACM Prize in Computing (2026)",
+  "Sort Benchmark (sortbenchmark.org), Daytona GraySort results 2013–2014",
+  "Announcements from IBM (June 2015), Amazon (EMR, June 2015; Glue, August 2017), Google (Cloud Dataproc, September 2015), Microsoft (Azure Databricks, March 2018; Fabric, November 2023) and Snowflake (Snowpark Connect for Spark, 2025)",
+  "R. Xin, interview with S. Chakrabarti, Engineers of Scale, \"From Spark to Databricks\" (on Spark's origins and the Netflix Prize); The Register and BigDATAwire reporting, 2013–2026"
+ ],
+ "links": {}
+}
