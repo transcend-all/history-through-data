@@ -1,0 +1,27 @@
+{
+ "slug": "no-ar",
+ "title": {
+  "en": "No Ar",
+  "pt": "No Ar"
+ },
+ "subtitle": {
+  "en": "Brazil on the air: radio, television and a national culture, 1922–1990",
+  "pt": "O Brasil no ar: rádio, televisão e uma cultura nacional, 1922–1990"
+ },
+ "start": 1922,
+ "end": 1990,
+ "app_subtitle": "Brazil on the air: radio, television and a national culture, 1922 – 1990",
+ "sources": [
+  "Lia Calabre, A Era do Rádio (2002)",
+  "Bryan McCann, Hello, Hello Brazil: Popular Music in the Making of Modern Brazil (2004)",
+  "Sérgio Mattos, História da Televisão Brasileira (2002)",
+  "Renato Ortiz, A Moderna Tradição Brasileira (1988)",
+  "Esther Hamburger, O Brasil Antenado: a sociedade da novela (2005)",
+  "Joseph Straubhaar, 'The Development of the Telenovela as the Pre-eminent Form of Popular Culture in Brazil' (1982)",
+  "Mauro Porto, Media Power and Democratization in Brazil: TV Globo and the Dilemmas of Political Accountability (2012)",
+  "CPDOC/FGV, Atlas Histórico do Brasil and Dicionário Histórico-Biográfico Brasileiro",
+  "Memória ABERT, Associação Brasileira de Emissoras de Rádio e Televisão",
+  "Embratel and Ministério das Comunicações historical records"
+ ],
+ "links": {}
+}

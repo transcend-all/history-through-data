@@ -1,0 +1,42 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,600;0,800;1,600&display=swap');
+
+.stApp {
+  background-color: #F6EFDF;
+  background-image: linear-gradient(rgba(246,239,223,.93), rgba(246,239,223,.93)), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDk2IDk2Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMxRTNGOEEiIHN0cm9rZS13aWR0aD0iMS42Ij48Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjguNzk5OTk5OTk5OTk5OTk3Ii8+PGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjE5LjIwMDAwMDAwMDAwMDAwMyIvPjxjaXJjbGUgY3g9Ijk2IiBjeT0iMCIgcj0iMjguNzk5OTk5OTk5OTk5OTk3Ii8+PGNpcmNsZSBjeD0iOTYiIGN5PSIwIiByPSIxOS4yMDAwMDAwMDAwMDAwMDMiLz48Y2lyY2xlIGN4PSIwIiBjeT0iOTYiIHI9IjI4Ljc5OTk5OTk5OTk5OTk5NyIvPjxjaXJjbGUgY3g9IjAiIGN5PSI5NiIgcj0iMTkuMjAwMDAwMDAwMDAwMDAzIi8+PGNpcmNsZSBjeD0iOTYiIGN5PSI5NiIgcj0iMjguNzk5OTk5OTk5OTk5OTk3Ii8+PGNpcmNsZSBjeD0iOTYiIGN5PSI5NiIgcj0iMTkuMjAwMDAwMDAwMDAwMDAzIi8+PGVsbGlwc2UgY3g9IjQ4LjAiIGN5PSIzMi42NCIgcng9IjguMTYiIHJ5PSIxMy4wNTYiIHRyYW5zZm9ybT0icm90YXRlKDAgNDguMCA0OC4wKSIvPjxlbGxpcHNlIGN4PSI0OC4wIiBjeT0iMzIuNjQiIHJ4PSI4LjE2IiByeT0iMTMuMDU2IiB0cmFuc2Zvcm09InJvdGF0ZSg0NSA0OC4wIDQ4LjApIi8+PGVsbGlwc2UgY3g9IjQ4LjAiIGN5PSIzMi42NCIgcng9IjguMTYiIHJ5PSIxMy4wNTYiIHRyYW5zZm9ybT0icm90YXRlKDkwIDQ4LjAgNDguMCkiLz48ZWxsaXBzZSBjeD0iNDguMCIgY3k9IjMyLjY0IiByeD0iOC4xNiIgcnk9IjEzLjA1NiIgdHJhbnNmb3JtPSJyb3RhdGUoMTM1IDQ4LjAgNDguMCkiLz48ZWxsaXBzZSBjeD0iNDguMCIgY3k9IjMyLjY0IiByeD0iOC4xNiIgcnk9IjEzLjA1NiIgdHJhbnNmb3JtPSJyb3RhdGUoMTgwIDQ4LjAgNDguMCkiLz48ZWxsaXBzZSBjeD0iNDguMCIgY3k9IjMyLjY0IiByeD0iOC4xNiIgcnk9IjEzLjA1NiIgdHJhbnNmb3JtPSJyb3RhdGUoMjI1IDQ4LjAgNDguMCkiLz48ZWxsaXBzZSBjeD0iNDguMCIgY3k9IjMyLjY0IiByeD0iOC4xNiIgcnk9IjEzLjA1NiIgdHJhbnNmb3JtPSJyb3RhdGUoMjcwIDQ4LjAgNDguMCkiLz48ZWxsaXBzZSBjeD0iNDguMCIgY3k9IjMyLjY0IiByeD0iOC4xNiIgcnk9IjEzLjA1NiIgdHJhbnNmb3JtPSJyb3RhdGUoMzE1IDQ4LjAgNDguMCkiLz48Y2lyY2xlIGN4PSI0OC4wIiBjeT0iNDguMCIgcj0iMjQuOTYiLz48L2c+PGcgZmlsbD0iIzFFM0Y4QSI+PHBhdGggZD0iTTQ4LjAgLTYuNzIwMDAwMDAwMDAwMDAxIEw1NC43MiAwIEw0OC4wIDYuNzIwMDAwMDAwMDAwMDAxIEw0MS4yOCAwWiIvPjxwYXRoIGQ9Ik05NiA0MS4yOCBMMTAyLjcyIDQ4LjAgTDk2IDU0LjcyIEw4OS4yOCA0OC4wWiIvPjxwYXRoIGQ9Ik00OC4wIDg5LjI4IEw1NC43MiA5NiBMNDguMCAxMDIuNzIgTDQxLjI4IDk2WiIvPjxwYXRoIGQ9Ik0wIDQxLjI4IEw2LjcyMDAwMDAwMDAwMDAwMSA0OC4wIEwwIDU0LjcyIEwtNi43MjAwMDAwMDAwMDAwMDEgNDguMFoiLz48Y2lyY2xlIGN4PSI0OC4wIiBjeT0iNDguMCIgcj0iNC4zMiIvPjwvZz48L3N2Zz4=");
+}
+html, body, .stApp, .stMarkdown, p, li, label { font-family: 'Lora', Georgia, serif; color: #1A2140; }
+h1, h2, h3, h4 { font-family: 'Playfair Display', Georgia, serif !important; color: #132B63 !important; }
+.block-container { padding-top: 3.6rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+
+/* A strip of azulejo tiles framed in gold, like a tile panel's border */
+.tile-band {
+  height: 44px; margin: 0 0 1rem 0;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIGZpbGw9IiNGQkY3RUUiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMxRTNGOEEiIHN0cm9rZS13aWR0aD0iMi40Ij48Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMTMuMiIvPjxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSI4LjgiLz48Y2lyY2xlIGN4PSI0NCIgY3k9IjAiIHI9IjEzLjIiLz48Y2lyY2xlIGN4PSI0NCIgY3k9IjAiIHI9IjguOCIvPjxjaXJjbGUgY3g9IjAiIGN5PSI0NCIgcj0iMTMuMiIvPjxjaXJjbGUgY3g9IjAiIGN5PSI0NCIgcj0iOC44Ii8+PGNpcmNsZSBjeD0iNDQiIGN5PSI0NCIgcj0iMTMuMiIvPjxjaXJjbGUgY3g9IjQ0IiBjeT0iNDQiIHI9IjguOCIvPjxlbGxpcHNlIGN4PSIyMi4wIiBjeT0iMTQuOTYiIHJ4PSIzLjc0IiByeT0iNS45ODQiIHRyYW5zZm9ybT0icm90YXRlKDAgMjIuMCAyMi4wKSIvPjxlbGxpcHNlIGN4PSIyMi4wIiBjeT0iMTQuOTYiIHJ4PSIzLjc0IiByeT0iNS45ODQiIHRyYW5zZm9ybT0icm90YXRlKDQ1IDIyLjAgMjIuMCkiLz48ZWxsaXBzZSBjeD0iMjIuMCIgY3k9IjE0Ljk2IiByeD0iMy43NCIgcnk9IjUuOTg0IiB0cmFuc2Zvcm09InJvdGF0ZSg5MCAyMi4wIDIyLjApIi8+PGVsbGlwc2UgY3g9IjIyLjAiIGN5PSIxNC45NiIgcng9IjMuNzQiIHJ5PSI1Ljk4NCIgdHJhbnNmb3JtPSJyb3RhdGUoMTM1IDIyLjAgMjIuMCkiLz48ZWxsaXBzZSBjeD0iMjIuMCIgY3k9IjE0Ljk2IiByeD0iMy43NCIgcnk9IjUuOTg0IiB0cmFuc2Zvcm09InJvdGF0ZSgxODAgMjIuMCAyMi4wKSIvPjxlbGxpcHNlIGN4PSIyMi4wIiBjeT0iMTQuOTYiIHJ4PSIzLjc0IiByeT0iNS45ODQiIHRyYW5zZm9ybT0icm90YXRlKDIyNSAyMi4wIDIyLjApIi8+PGVsbGlwc2UgY3g9IjIyLjAiIGN5PSIxNC45NiIgcng9IjMuNzQiIHJ5PSI1Ljk4NCIgdHJhbnNmb3JtPSJyb3RhdGUoMjcwIDIyLjAgMjIuMCkiLz48ZWxsaXBzZSBjeD0iMjIuMCIgY3k9IjE0Ljk2IiByeD0iMy43NCIgcnk9IjUuOTg0IiB0cmFuc2Zvcm09InJvdGF0ZSgzMTUgMjIuMCAyMi4wKSIvPjxjaXJjbGUgY3g9IjIyLjAiIGN5PSIyMi4wIiByPSIxMS40NDAwMDAwMDAwMDAwMDEiLz48L2c+PGcgZmlsbD0iIzFFM0Y4QSI+PHBhdGggZD0iTTIyLjAgLTMuMDggTDI1LjA4IDAgTDIyLjAgMy4wOCBMMTguOTIgMFoiLz48cGF0aCBkPSJNNDQgMTguOTIgTDQ3LjA4IDIyLjAgTDQ0IDI1LjA4IEw0MC45MiAyMi4wWiIvPjxwYXRoIGQ9Ik0yMi4wIDQwLjkyIEwyNS4wOCA0NCBMMjIuMCA0Ny4wOCBMMTguOTIgNDRaIi8+PHBhdGggZD0iTTAgMTguOTIgTDMuMDggMjIuMCBMMCAyNS4wOCBMLTMuMDggMjIuMFoiLz48Y2lyY2xlIGN4PSIyMi4wIiBjeT0iMjIuMCIgcj0iMS45OCIvPjwvZz48L3N2Zz4=") repeat-x;
+  border-top: 4px solid #D6A33A; border-bottom: 4px solid #D6A33A;
+  box-shadow: 0 1px 0 #132B63, 0 -1px 0 #132B63;
+}
+.title-block h1 { font-size: 2.9rem; font-weight: 800; margin: 0; line-height: 1.05; }
+.title-block .subtitle { font-style: italic; color: #5A5F78; font-size: 1.1rem; margin: .2rem 0 1rem; }
+
+/* Download links styled as buttons (documentary page) */
+a.dl {
+  display: inline-block; padding: .45rem .9rem; border-radius: 6px; text-decoration: none !important;
+  background: #8B1E2D; color: #FBF7EE !important; border: 2px solid #D6A33A; font-weight: 600;
+}
+a.dl:hover { background: #A8263A; }
+a.dl.small { padding: .25rem .6rem; font-size: .9rem; font-weight: 400; background: #FBF7EE;
+  color: #132B63 !important; border: 1.5px solid #1E3F8A; }
+a.dl.small:hover { border-color: #D6A33A; color: #8B1E2D !important; }
+h4 { margin-top: .4rem !important; }
+[data-testid="stDownloadButton"] button {
+  background: #8B1E2D; color: #FBF7EE; border: 2px solid #D6A33A; font-weight: 600;
+}
+[data-testid="stDownloadButton"] button:hover { background: #A8263A; color: #fff; border-color: #D6A33A; }
+[data-testid="stDownloadButton"] button * { color: inherit !important; }
+.st-key-chapters [data-testid="stVerticalBlock"] { gap: .15rem; }
+.st-key-chapters button { justify-content: flex-start; min-height: 0; padding: .15rem 0; }
+
+</style>
