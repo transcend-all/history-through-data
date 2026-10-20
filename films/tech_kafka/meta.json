@@ -22,5 +22,7 @@
   "Fortune, \"LinkedIn's Kafka creators launch Confluent\" (6 November 2014); IBM announcement (8 December 2025) and Form 10-Q for the first quarter of 2026 (completion on 17 March 2026)",
   "Announcements from Amazon (MSK preview, 28 November 2018; general availability, 30 May 2019), Microsoft (Event Hubs for Apache Kafka, 14 November 2018) and Google Cloud (Managed Service for Apache Kafka, 12 November 2024)"
  ],
- "links": {}
+ "links": {
+  "youtube": "https://youtu.be/RX-VI9okbzo"
+ }
 }
