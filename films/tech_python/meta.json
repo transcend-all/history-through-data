@@ -1,0 +1,25 @@
+{
+ "slug": "readability-counts",
+ "title": {
+  "en": "Readability Counts"
+ },
+ "subtitle": {
+  "en": "Python, a language designed to be read, 1989–2026"
+ },
+ "start": 1989,
+ "end": 2026,
+ "app_subtitle": "Python, a language designed to be read, 1989 – 2026",
+ "sources": [
+  "G. van Rossum, foreword to M. Lutz, Programming Python, O'Reilly, 1996 (python.org/doc/essays/foreword)",
+  "G. van Rossum, \"The History of Python\" blog, 2009 (python-history.blogspot.com), incl. \"A Brief Timeline of Python\"; G. van Rossum, résumé (gvanrossum.github.io)",
+  "Python Enhancement Proposals (peps.python.org): PEP 8 (2001), PEP 20 \"The Zen of Python\" (T. Peters, 2004), PEP 484 (2014), PEP 8016 and PEP 8100 (2018–2019), PEP 790 (3.15 schedule)",
+  "S. Gross, PEP 703 \"Making the Global Interpreter Lock Optional in CPython\" (2023), the steering council's notices (discuss.python.org, July and October 2023), and PEP 779 (2025)",
+  "Python documentation, \"What's New in Python\" 3.11, 3.13 and 3.14; python.org, \"Sunsetting Python 2\"; Python Insider, \"Python 3.15.0 (final) is here!\" (9 October 2026)",
+  "C. R. Harris et al., \"Array programming with NumPy\", Nature 585, 357–362 (2020)",
+  "W. McKinney, Python for Data Analysis, 3rd ed., O'Reilly, 2022; matplotlib project history; Project Jupyter and IPython project histories",
+  "NIST, \"How a Programming Language Named After Monty Python Evolved at NIST\" (Taking Measure blog); Python Software Foundation (python.org/psf)",
+  "PyCon US and SciPy conference archives (us.pycon.org, scipy.org)",
+  "GitHub Octoverse 2024; TIOBE Index, October 2026; Stack Overflow Developer Survey 2026; PyPI statistics (pypi.org, October 2026)"
+ ],
+ "links": {}
+}
