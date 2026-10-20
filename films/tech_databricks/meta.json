@@ -21,5 +21,7 @@
   "Announcements from Microsoft (Connect(); 15 November 2017; Azure Databricks GA, 22 March 2018), Google Cloud (17 February and 4 May 2021), Amazon Web Services (October 2024) and Snowflake (Bozeman, May 2021; Polaris, 3 June 2024; Crunchy Data, 2 June 2025)",
   "Reporting by TechCrunch, CNBC, Bloomberg, The Wall Street Journal and BigDATAwire, 2013–2026 (founding round, Tabular price, valuations); customer stories from AT&T (Databricks blog, 11 April 2022) and Walgreens"
  ],
- "links": {}
+ "links": {
+  "youtube": "https://youtu.be/eISoZIX5b4A"
+ }
 }
