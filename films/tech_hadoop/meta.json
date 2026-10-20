@@ -1,0 +1,26 @@
+{
+ "slug": "the-elephant-in-the-data-center",
+ "title": {
+  "en": "The Elephant in the Data Center"
+ },
+ "subtitle": {
+  "en": "Hadoop: big data on cheap machines, 2003–2026"
+ },
+ "start": 2003,
+ "end": 2026,
+ "app_subtitle": "Hadoop: big data on cheap machines, 2003 – 2026",
+ "sources": [
+  "S. Ghemawat, H. Gobioff and S.-T. Leung, \"The Google File System\", SOSP 2003",
+  "J. Dean and S. Ghemawat, \"MapReduce: Simplified Data Processing on Large Clusters\", OSDI 2004; and Communications of the ACM 51(1), January 2008",
+  "M. Cafarella and D. Cutting, \"Building Nutch: Open Source Search\", ACM Queue 2(2), April 2004",
+  "T. White, Hadoop: The Definitive Guide, O'Reilly, ch. 1, \"A Brief History of Apache Hadoop\"",
+  "Apache Hadoop documentation (hadoop.apache.org): HDFS Architecture, HDFS Erasure Coding, hdfs-default.xml; release notes 0.1.0 (2006) to 3.5.0 (2026); Apache JIRA MAPREDUCE-279 and HDFS-4053",
+  "V. K. Vavilapalli et al., \"Apache Hadoop YARN: Yet Another Resource Negotiator\", SoCC 2013; A. Thusoo et al., \"Hive: A Warehousing Solution over a Map-Reduce Framework\", VLDB 2009",
+  "Yahoo Developer Network blog (Webmap, February 2008); Sort Benchmark results (sortbenchmark.org) 2008–2014; Databricks blog, \"Spark Breaks Previous Large-Scale Sort Record\" (October 2014)",
+  "Facebook Engineering: D. Borthakur (2010), \"Moving an Elephant\" (2011), \"Under the Hood: HDFS reliability\" (2012); New York Times Open blog, D. Gottfrid (November 2007)",
+  "D. DeWitt and M. Stonebraker, \"MapReduce: A major step backwards\", The Database Column, January 2008; A. Pavlo et al., \"A Comparison of Approaches to Large-Scale Data Analysis\", SIGMOD 2009",
+  "SEC filings and press releases: Cloudera and Hortonworks (IPOs 2014, 2017; merger 2018–2019; KKR/CD&R 2021); HPE (MapR, 2019); Amazon (S3 2006, Elastic MapReduce 2009); Gartner (May 2015)",
+  "The Register, InfoQ and GigaOm reporting, 2008–2019; Apache Software Foundation announcements and Attic records"
+ ],
+ "links": {}
+}
