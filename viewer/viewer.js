@@ -39,7 +39,9 @@ export default function (component) {
 
   // A state can join partway through (e.g. Acre in 1903): before that it is drawn as foreign land.
   const FOREIGN = (D.theme && D.theme["--neighbor"]) || "#34518F";
-  if (D.theme) for (const [k, v] of Object.entries(D.theme)) parentElement.style.setProperty(k, v);
+  // Streamlit (1.6x) mounts components in a shadow root, which has no style: the theme goes on its host element.
+  const themeEl = parentElement.host || parentElement;
+  if (D.theme && themeEl.style) for (const [k, v] of Object.entries(D.theme)) themeEl.style.setProperty(k, v);
   const stageAt = (st, year) => {
     if (st.joins && year < st.joins) return { stage: -1, since: null, note: st.foreignNote || "" };
     let r = { stage: 0, since: null, note: st.untouched };
