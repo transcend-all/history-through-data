@@ -1,0 +1,26 @@
+{
+ "slug": "say-what-not-how",
+ "title": {
+  "en": "Say What, Not How"
+ },
+ "subtitle": {
+  "en": "SQL and the relational idea, 1970–2026"
+ },
+ "start": 1970,
+ "end": 2026,
+ "app_subtitle": "SQL and the relational idea, 1970 – 2026",
+ "sources": [
+  "E. F. Codd, \"A Relational Model of Data for Large Shared Data Banks\", Communications of the ACM 13(6), June 1970",
+  "E. F. Codd, \"Extending the Database Relational Model to Capture More Meaning\", ACM Transactions on Database Systems 4(4), 1979",
+  "D. D. Chamberlin and R. F. Boyce, \"SEQUEL: A Structured English Query Language\", ACM SIGFIDET workshop, 1974",
+  "P. G. Selinger et al., \"Access Path Selection in a Relational Database Management System\", ACM SIGMOD, 1979",
+  "J. Gray, \"The Transaction Concept: Virtues and Limitations\", VLDB, 1981; T. Härder and A. Reuter, \"Principles of Transaction-Oriented Database Recovery\", ACM Computing Surveys 15(4), 1983",
+  "IBM History: \"The relational database\" and \"Edgar F. Codd\" (ibm.com/history); ACM A.M. Turing Award citations (Codd 1981, Gray 1998, Stonebraker 2014)",
+  "Oracle, \"50 years of the relational database\" and corporate timeline (oracle.com)",
+  "ISO/IEC 9075 (SQL), editions 1987–2023; ANSI X3.135-1986",
+  "PostgreSQL documentation, \"A Brief History of PostgreSQL\"; sqlite.org; duckdb.org; MySQL history",
+  "Computer History Museum, oral histories and the 1995 SQL Reunion transcripts (mcjones.org/System_R)",
+  "Stack Overflow Developer Survey 2026 (survey.stackoverflow.co/2026)"
+ ],
+ "links": {}
+}
