@@ -1,0 +1,27 @@
+{
+ "slug": "the-2026-midterms-explained",
+ "title": {
+  "en": "The 2026 Midterms Explained"
+ },
+ "subtitle": {
+  "en": "History in the Making · Who controls Congress after 3 November?"
+ },
+ "start": 2000,
+ "end": 2026,
+ "app_subtitle": "Who controls Congress after 3 November? The presidential map since 2000, 2000 – 2026",
+ "sources": [
+  "Federal Election Commission, Federal Elections 2000–2024: official presidential general election results by state",
+  "MIT Election Data and Science Lab, U.S. President 1976–2024 (Harvard Dataverse, doi:10.7910/DVN/42MVDX)",
+  "U.S. Census Bureau, 2020 Census Apportionment Results (2021) and TIGER/Line boundaries",
+  "Office of the Clerk and Office of the Historian, U.S. House of Representatives: party divisions and vacancies",
+  "United States Senate Historical Office, party division and senators' classes",
+  "The American Presidency Project (UC Santa Barbara): seats gained or lost by the president's party in midterms",
+  "University of Florida Election Lab (Michael McDonald): turnout rates and the 2026 early-vote tracker",
+  "Pew Research Center, Gallup and AP-NORC surveys of voters' priorities, 2025–2026",
+  "Congressional Budget Office estimates of Public Law 119-21 (2025); Bureau of Labor Statistics, CPI",
+  "Supreme Court of the United States: Louisiana v. Callais (2026), Watson v. RNC (2026)",
+  "Cook Political Report, Sabato's Crystal Ball and Inside Elections race ratings (October 2026)",
+  "National Conference of State Legislatures and state election offices: election dates, mail voting and runoffs"
+ ],
+ "links": {}
+}
