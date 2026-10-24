@@ -1,0 +1,37 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Cardo:ital,wght@0,400;0,700;1,400&display=block');
+:root{--sea:#22303B;--sea-deep:#141D24;--shade:14,16,18;--neighbor:#3C4A55;--neighbor-edge:#5F6E7A;--glaze:#F7F1E6;--gold:#C08A4A;--gold-bright:#E2B26E;--accent:#9E2F22;--accent-hover:#B73A2B;--ink:#1F1F22;--ink-muted:#615E5C;--paper:#F0E9DC;--font-display:'Cinzel', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--font-body:'Cardo', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--cobalt:#22303B;--cobalt-deep:#141D24;--wine:#9E2F22;}
+.stApp {
+  background-color: #F0E9DC;
+  background-image: linear-gradient(rgba(240,233,220,.93), rgba(240,233,220,.93)), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDk2IDk2Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMyMjMwM0IiIHN0cm9rZS13aWR0aD0iMS42IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIj48cGF0aCBkPSJNMCAxMi4wSDcyLjBWNjAuMEgyNC4wVjM2LjBINDguMCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTIuMCA2LjApIi8+PHBhdGggZD0iTTAgNC44MDAwMDAwMDAwMDAwMDFIOTYiIC8+PHBhdGggZD0iTTAgOTEuMkg5NiIgLz48cGF0aCBkPSJNMCA3OS4ySDk2IiBvcGFjaXR5PSIuNSIvPjwvZz48L3N2Zz4=");
+}
+html, body, .stApp, .stMarkdown, p, li, label { font-family: 'Cardo', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif; color: #1F1F22; }
+h1, h2, h3, h4 { font-family: 'Cinzel', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif !important; color: #141D24 !important; }
+.block-container { padding-top: 3.6rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+.tile-band {
+  height: 44px; margin: 0 0 1rem 0;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIGZpbGw9IiNGN0YxRTYiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMyMjMwM0IiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIj48cGF0aCBkPSJNMCA1LjVIMzMuMFYyNy41SDExLjBWMTYuNUgyMi4wIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1LjUgMi43NSkiLz48cGF0aCBkPSJNMCAyLjJINDQiIC8+PHBhdGggZD0iTTAgNDEuOEg0NCIgLz48cGF0aCBkPSJNMCAzNi4zSDQ0IiBvcGFjaXR5PSIuNSIvPjwvZz48L3N2Zz4=") repeat-x;
+  border-top: 4px solid #C08A4A; border-bottom: 4px solid #C08A4A;
+  box-shadow: 0 1px 0 #141D24, 0 -1px 0 #141D24;
+}
+.title-block h1 { font-size: 2.9rem; font-weight: 800; margin: 0; line-height: 1.05; }
+.title-block .subtitle { font-style: italic; color: #615E5C; font-size: 1.1rem; margin: .2rem 0 1rem; }
+a.dl {
+  display: inline-block; padding: .45rem .9rem; border-radius: 6px; text-decoration: none !important;
+  background: #9E2F22; color: #F7F1E6 !important; border: 2px solid #C08A4A; font-weight: 600;
+}
+a.dl:hover { background: #B73A2B; }
+a.dl.small { padding: .25rem .6rem; font-size: .9rem; font-weight: 400; background: #F7F1E6;
+  color: #141D24 !important; border: 1.5px solid #22303B; }
+a.dl.small:hover { border-color: #C08A4A; color: #9E2F22 !important; }
+h4 { margin-top: .4rem !important; }
+[data-testid="stDownloadButton"] button {
+  background: #9E2F22; color: #F7F1E6; border: 2px solid #C08A4A; font-weight: 600;
+}
+[data-testid="stDownloadButton"] button:hover { background: #B73A2B; color: #fff; border-color: #C08A4A; }
+[data-testid="stDownloadButton"] button * { color: inherit !important; }
+.st-key-chapters [data-testid="stVerticalBlock"] { gap: .15rem; }
+.st-key-chapters button { justify-content: flex-start; min-height: 0; padding: .15rem 0; }
+</style>

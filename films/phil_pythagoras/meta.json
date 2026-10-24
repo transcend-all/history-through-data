@@ -1,0 +1,26 @@
+{
+ "slug": "the-brotherhood-of-number",
+ "title": {
+  "en": "The Brotherhood of Number"
+ },
+ "subtitle": {
+  "en": "Pythagoras and his followers, from Samos to Croton, c. 570–450 BC"
+ },
+ "start": -570,
+ "end": -450,
+ "app_subtitle": "Pythagoras and his followers, from Samos to Croton, c. 570 – 450 BC",
+ "sources": [
+  "Diogenes Laertius, Lives of Eminent Philosophers, book 8 (tr. R. D. Hicks, Loeb)",
+  "Iamblichus, On the Pythagorean Way of Life (tr. J. Dillon & J. Hershbell, 1991)",
+  "Porphyry, Life of Pythagoras; Herodotus, Histories; Polybius, Histories 2.38–39",
+  "Aristotle, Metaphysics A5; Prior Analytics 1.23",
+  "Carl Huffman, \"Pythagoras\" and \"Pythagoreanism\", Stanford Encyclopedia of Philosophy (rev. 2024)",
+  "Walter Burkert, Lore and Science in Ancient Pythagoreanism (1972)",
+  "Charles H. Kahn, Pythagoras and the Pythagoreans: A Brief History (2001)",
+  "Christoph Riedweg, Pythagoras: His Life, Teaching, and Influence (2005)",
+  "Leonid Zhmud, Pythagoras and the Early Pythagoreans (2012)",
+  "Eleanor Robson, \"Words and Pictures: New Light on Plimpton 322\", American Mathematical Monthly (2002)",
+  "David Fowler & Eleanor Robson, \"Square Root Approximations in Old Babylonian Mathematics\", Historia Mathematica (1998)"
+ ],
+ "links": {}
+}
