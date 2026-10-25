@@ -1,0 +1,26 @@
+{
+ "slug": "the-witness",
+ "title": {
+  "en": "The Witness"
+ },
+ "subtitle": {
+  "en": "Xenophon's Socrates: a friendship remembered, c. 430–354 BC"
+ },
+ "start": -430,
+ "end": -354,
+ "app_subtitle": "Xenophon's Socrates: a friendship remembered, c. 430 – 354 BC",
+ "sources": [
+  "Xenophon, Memorabilia, Apology of Socrates, Symposium, Oeconomicus (tr. E. C. Marchant & O. J. Todd, Loeb; Perseus)",
+  "Xenophon, Anabasis 3.1, 5.3 and 7.7; Hellenica 1.7, 3.2–3.4, 4.3, 6.4, 7.5 (tr. C. L. Brownson, Loeb)",
+  "Plato, Apology, Symposium, Phaedo (in Plato: Complete Works, ed. J. M. Cooper, 1997)",
+  "Diogenes Laertius, Lives of Eminent Philosophers 2.22, 2.48–59 and 3.34 (tr. R. D. Hicks, Loeb)",
+  "Pausanias, Description of Greece 5.6.5–6, 8.11.5–6; Strabo, Geography 9.2.7; Aulus Gellius, Attic Nights 14.3",
+  "Louis-André Dorion, \"The Rise and Fall of the Socratic Problem\", in The Cambridge Companion to Socrates (2011)",
+  "Vivienne J. Gray, The Framing of Socrates: The Literary Interpretation of Xenophon's Memorabilia (1998)",
+  "Charles H. Kahn, Plato and the Socratic Dialogue (1996)",
+  "Leo Strauss, Xenophon's Socratic Discourse (1970) and Xenophon's Socrates (1972)",
+  "Debra Nails & S. Sara Monoson, \"Socrates\", Stanford Encyclopedia of Philosophy (rev. 2022)",
+  "Natural Earth (map boundaries, public domain)"
+ ],
+ "links": {}
+}
