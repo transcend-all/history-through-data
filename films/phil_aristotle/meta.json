@@ -1,0 +1,26 @@
+{
+ "slug": "the-first-teacher",
+ "title": {
+  "en": "The First Teacher"
+ },
+ "subtitle": {
+  "en": "Aristotle, from Stagira to the Lyceum, 384–322 BC"
+ },
+ "start": -384,
+ "end": -322,
+ "app_subtitle": "Aristotle, from Stagira to the Lyceum, 384 – 322 BC",
+ "sources": [
+  "Diogenes Laertius, Lives of Eminent Philosophers, book 5 (Life of Aristotle), tr. R. D. Hicks",
+  "Aristotle, History of Animals, Prior Analytics, Physics, Nicomachean Ethics, Politics (The Complete Works of Aristotle, ed. J. Barnes, 1984)",
+  "Plutarch, Life of Alexander 7–8",
+  "Strabo, Geography 13.1.54–57",
+  "Aelian, Varia Historia 3.36",
+  "Diodorus Siculus, Library of History, books 16–18",
+  "Stanford Encyclopedia of Philosophy: 'Aristotle' (C. Shields) and 'Aristotle's Biology' (J. Lennox)",
+  "Ingemar Düring, Aristotle in the Ancient Biographical Tradition (1957)",
+  "Carlo Natali, Aristotle: His Life and School (2013)",
+  "Armand Marie Leroi, The Lagoon: How Aristotle Invented Science (2014)",
+  "Dimitri Gutas, Greek Thought, Arabic Culture (1998)"
+ ],
+ "links": {}
+}
