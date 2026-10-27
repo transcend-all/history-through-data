@@ -1,0 +1,26 @@
+{
+ "slug": "the-lions-cub",
+ "title": {
+  "en": "The Lion's Cub"
+ },
+ "subtitle": {
+  "en": "Socrates, Plato and Alcibiades, 450–404 BC"
+ },
+ "start": -450,
+ "end": -404,
+ "app_subtitle": "Socrates, Plato and Alcibiades, 450 – 404 BC",
+ "sources": [
+  "Thucydides, History of the Peloponnesian War (books 1, 5–8)",
+  "Xenophon, Hellenica (books 1–2) and Memorabilia (1.2)",
+  "Plutarch, Life of Alcibiades",
+  "Plato, Symposium (212c–222b) and Alcibiades I",
+  "Athenaeus, The Learned Banqueters 13.574",
+  "David Gribble, Alcibiades and Athens (Oxford, 1999)",
+  "P. J. Rhodes, Alcibiades: Athenian Playboy, General and Traitor (2011)",
+  "Walter M. Ellis, Alcibiades (Routledge, 1989)",
+  "Nicholas Denyer (ed.), Plato: Alcibiades (Cambridge, 2001)",
+  "Debra Nails, The People of Plato (Hackett, 2002)",
+  "Donald Kagan, The Peloponnesian War (2003)"
+ ],
+ "links": {}
+}
