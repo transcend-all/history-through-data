@@ -1,0 +1,37 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=block');
+:root{--sea:#1B2F66;--sea-deep:#101D44;--shade:10,14,38;--neighbor:#33477D;--neighbor-edge:#5868A0;--glaze:#FAF6EC;--gold:#C9A04A;--gold-bright:#EBCB6E;--accent:#A3182A;--accent-hover:#BE2234;--ink:#1A1F38;--ink-muted:#5C6078;--paper:#F4EEDF;--font-display:'Cormorant Garamond', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--font-body:'EB Garamond', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--cobalt:#1B2F66;--cobalt-deep:#101D44;--wine:#A3182A;}
+.stApp {
+  background-color: #F4EEDF;
+  background-image: linear-gradient(rgba(244,238,223,.93), rgba(244,238,223,.93)), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDk2IDk2Ij48ZyBmaWxsPSIjMUIyRjY2Ij48cGF0aCBkPSJNNDguMCAyOC43OTk5OTk5OTk5OTk5OTcgQzUzLjc2MDAwMDAwMDAwMDAwNSAzNi40OCA1My43NjAwMDAwMDAwMDAwMDUgNDQuMTYgNDguMCA0OS45MiBDNDIuMjM5OTk5OTk5OTk5OTk1IDQ0LjE2IDQyLjIzOTk5OTk5OTk5OTk5NSAzNi40OCA0OC4wIDI4Ljc5OTk5OTk5OTk5OTk5N1ogTTQ5LjkyIDQ4LjAgQzU1LjY4IDM0LjU1OTk5OTk5OTk5OTk5NSA2OS4xMiAzOC40IDYzLjM2IDQ5LjkyIEM2MS40NDAwMDAwMDAwMDAwMDUgNDQuMTYgNTUuNjggNDQuMTYgNTEuODQgNTEuODRaIE00Ni4wOCA0OC4wIEM0MC4zMiAzNC41NTk5OTk5OTk5OTk5OTUgMjYuODc5OTk5OTk5OTk5OTk1IDM4LjQgMzIuNjQgNDkuOTIgQzM0LjU1OTk5OTk5OTk5OTk5NSA0NC4xNiA0MC4zMiA0NC4xNiA0NC4xNiA1MS44NFogTTM4LjQgNTEuODQgSDU3LjYgVjU1LjY4IEgzOC40WiBNNDUuNjk2IDU1LjY4IEw0OC4wIDY3LjIgTDUwLjMwNCA1NS42OFoiLz48cGF0aCBkPSJNMCAtNC44MDAwMDAwMDAwMDAwMDEgTDQuODAwMDAwMDAwMDAwMDAxIDAgTDAgNC44MDAwMDAwMDAwMDAwMDEgTC00LjgwMDAwMDAwMDAwMDAwMSAwWiIvPjxwYXRoIGQ9Ik05NiAtNC44MDAwMDAwMDAwMDAwMDEgTDEwMC44IDAgTDk2IDQuODAwMDAwMDAwMDAwMDAxIEw5MS4yIDBaIi8+PHBhdGggZD0iTTAgOTEuMiBMNC44MDAwMDAwMDAwMDAwMDEgOTYgTDAgMTAwLjggTC00LjgwMDAwMDAwMDAwMDAwMSA5NloiLz48cGF0aCBkPSJNOTYgOTEuMiBMMTAwLjggOTYgTDk2IDEwMC44IEw5MS4yIDk2WiIvPjwvZz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMxQjJGNjYiIHN0cm9rZS13aWR0aD0iMC44Ij48cGF0aCBkPSJNMCAwTDk2IDk2TTk2IDBMMCA5NiIgc3Ryb2tlLWRhc2hhcnJheT0iMy44NCA1Ljc2IiBvcGFjaXR5PSIuNiIvPjwvZz48L3N2Zz4=");
+}
+html, body, .stApp, .stMarkdown, p, li, label { font-family: 'EB Garamond', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif; color: #1A1F38; }
+h1, h2, h3, h4 { font-family: 'Cormorant Garamond', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif !important; color: #101D44 !important; }
+.block-container { padding-top: 3.6rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+.tile-band {
+  height: 44px; margin: 0 0 1rem 0;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIGZpbGw9IiNGQUY2RUMiLz48ZyBmaWxsPSIjMUIyRjY2Ij48cGF0aCBkPSJNMjIuMCAxMy4yIEMyNC42NCAxNi43MiAyNC42NCAyMC4yNCAyMi4wIDIyLjg4IEMxOS4zNiAyMC4yNCAxOS4zNiAxNi43MiAyMi4wIDEzLjJaIE0yMi44OCAyMi4wIEMyNS41MiAxNS44NCAzMS42OCAxNy42IDI5LjA0IDIyLjg4IEMyOC4xNiAyMC4yNCAyNS41MiAyMC4yNCAyMy43NiAyMy43NlogTTIxLjEyIDIyLjAgQzE4LjQ4IDE1Ljg0IDEyLjMxOTk5OTk5OTk5OTk5OSAxNy42IDE0Ljk1OTk5OTk5OTk5OTk5OSAyMi44OCBDMTUuODQgMjAuMjQgMTguNDggMjAuMjQgMjAuMjQgMjMuNzZaIE0xNy42IDIzLjc2IEgyNi40IFYyNS41MiBIMTcuNlogTTIwLjk0NCAyNS41MiBMMjIuMCAzMC44IEwyMy4wNTYgMjUuNTJaIi8+PHBhdGggZD0iTTAgLTIuMiBMMi4yIDAgTDAgMi4yIEwtMi4yIDBaIi8+PHBhdGggZD0iTTQ0IC0yLjIgTDQ2LjIgMCBMNDQgMi4yIEw0MS44IDBaIi8+PHBhdGggZD0iTTAgNDEuOCBMMi4yIDQ0IEwwIDQ2LjIgTC0yLjIgNDRaIi8+PHBhdGggZD0iTTQ0IDQxLjggTDQ2LjIgNDQgTDQ0IDQ2LjIgTDQxLjggNDRaIi8+PC9nPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFCMkY2NiIgc3Ryb2tlLXdpZHRoPSIxLjIiPjxwYXRoIGQ9Ik0wIDBMNDQgNDRNNDQgMEwwIDQ0IiBzdHJva2UtZGFzaGFycmF5PSIxLjc2IDIuNjM5OTk5OTk5OTk5OTk5NyIgb3BhY2l0eT0iLjYiLz48L2c+PC9zdmc+") repeat-x;
+  border-top: 4px solid #C9A04A; border-bottom: 4px solid #C9A04A;
+  box-shadow: 0 1px 0 #101D44, 0 -1px 0 #101D44;
+}
+.title-block h1 { font-size: 2.9rem; font-weight: 800; margin: 0; line-height: 1.05; }
+.title-block .subtitle { font-style: italic; color: #5C6078; font-size: 1.1rem; margin: .2rem 0 1rem; }
+a.dl {
+  display: inline-block; padding: .45rem .9rem; border-radius: 6px; text-decoration: none !important;
+  background: #A3182A; color: #FAF6EC !important; border: 2px solid #C9A04A; font-weight: 600;
+}
+a.dl:hover { background: #BE2234; }
+a.dl.small { padding: .25rem .6rem; font-size: .9rem; font-weight: 400; background: #FAF6EC;
+  color: #101D44 !important; border: 1.5px solid #1B2F66; }
+a.dl.small:hover { border-color: #C9A04A; color: #A3182A !important; }
+h4 { margin-top: .4rem !important; }
+[data-testid="stDownloadButton"] button {
+  background: #A3182A; color: #FAF6EC; border: 2px solid #C9A04A; font-weight: 600;
+}
+[data-testid="stDownloadButton"] button:hover { background: #BE2234; color: #fff; border-color: #C9A04A; }
+[data-testid="stDownloadButton"] button * { color: inherit !important; }
+.st-key-chapters [data-testid="stVerticalBlock"] { gap: .15rem; }
+.st-key-chapters button { justify-content: flex-start; min-height: 0; padding: .15rem 0; }
+</style>
