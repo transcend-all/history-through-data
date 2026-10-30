@@ -1,0 +1,26 @@
+{
+ "slug": "sikelia",
+ "title": {
+  "en": "Sikelia"
+ },
+ "subtitle": {
+  "en": "Carthage and Syracuse at war for Sicily, 480–275 BC"
+ },
+ "start": -480,
+ "end": -275,
+ "app_subtitle": "Carthage and Syracuse at war for Sicily, 480 – 275 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, books 11–22",
+  "Herodotus, Histories, book 7 (Gelon and Himera)",
+  "Plutarch, Lives of Timoleon, Dion and Pyrrhus",
+  "Justin, Epitome of Pompeius Trogus, books 19–23",
+  "The Cambridge Ancient History, vols. 5–7 (Cambridge University Press)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Brian Caven, Dionysius I: War-Lord of Sicily (1990)",
+  "M. I. Finley, Ancient Sicily (1968, rev. 1979)",
+  "Serge Lancel, Carthage: A History (1995)",
+  "Jeff Champion, The Tyrants of Syracuse (2010–2012)",
+  "Livius.org, articles on Sicily, Syracuse and Carthage"
+ ],
+ "links": {}
+}
