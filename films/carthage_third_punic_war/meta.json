@@ -1,0 +1,25 @@
+{
+ "slug": "carthago-delenda-est",
+ "title": {
+  "en": "Carthago Delenda Est"
+ },
+ "subtitle": {
+  "en": "Masinissa, Cato and the fall of Carthage, 201–146 BC"
+ },
+ "start": -201,
+ "end": -146,
+ "app_subtitle": "Masinissa, Cato and the fall of Carthage, 201 – 146 BC",
+ "sources": [
+  "Appian, Roman History: The Punic Wars (Libyca)",
+  "Polybius, The Histories, books 31–39",
+  "Livy, History of Rome, books 33–42 and Periochae 47–51",
+  "Plutarch, Life of Cato the Elder",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Adrian Goldsworthy, The Fall of Carthage (2000)",
+  "Serge Lancel, Carthage: A History (1995)",
+  "Dexter Hoyos (ed.), A Companion to the Punic Wars (2011)",
+  "R. T. Ridley, 'To Be Taken with a Pinch of Salt: The Destruction of Carthage', Classical Philology 81 (1986)",
+  "Encyclopaedia Britannica, 'Third Punic War' and 'Masinissa'"
+ ],
+ "links": {}
+}
