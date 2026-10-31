@@ -1,0 +1,27 @@
+{
+ "slug": "the-sea-of-alalia",
+ "title": {
+  "en": "The Sea of Alalia"
+ },
+ "subtitle": {
+  "en": "Carthage, the Etruscans and the Greeks divide the western Mediterranean, 600–509 BC"
+ },
+ "start": -600,
+ "end": -509,
+ "app_subtitle": "How Carthage, the Etruscans and the Greeks divided the western Mediterranean, 600 – 509 BC",
+ "sources": [
+  "Herodotus, Histories, Book 1.163–167 and Book 5.42–46 (trans. A. D. Godley, Loeb Classical Library)",
+  "Polybius, The Histories, Book 3.22–26 (trans. W. R. Paton, Loeb Classical Library)",
+  "Thucydides, History of the Peloponnesian War, Book 1.13",
+  "Justin, Epitome of the Philippic History of Pompeius Trogus, Books 18–19 and 43",
+  "Diodorus Siculus, Library of History, Book 5.9–13",
+  "Dionysius of Halicarnassus, Roman Antiquities, Book 7.3–4",
+  "Serge Lancel, Carthage: A History (Blackwell, 1995)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Dexter Hoyos, The Carthaginians (Routledge, 2010)",
+  "John Boardman, The Greeks Overseas (4th ed., Thames & Hudson, 1999)",
+  "Sybille Haynes, Etruscan Civilization: A Cultural History (Getty, 2000)",
+  "The Cambridge Ancient History, vol. IV: Persia, Greece and the Western Mediterranean (2nd ed., 1988)"
+ ],
+ "links": {}
+}
