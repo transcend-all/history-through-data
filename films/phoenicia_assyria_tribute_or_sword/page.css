@@ -1,0 +1,37 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Cardo:ital,wght@0,400;0,700;1,400&display=block');
+:root{--sea:#14304A;--sea-deep:#0B1D2E;--shade:10,20,30;--neighbor:#2E4556;--neighbor-edge:#5B7385;--glaze:#F8F2E8;--gold:#B9863F;--gold-bright:#DDAE62;--accent:#6B1F4E;--accent-hover:#842862;--ink:#1E1A22;--ink-muted:#625A66;--paper:#F2EBDF;--font-display:'Marcellus', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--font-body:'Cardo', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif;--cobalt:#14304A;--cobalt-deep:#0B1D2E;--wine:#6B1F4E;}
+.stApp {
+  background-color: #F2EBDF;
+  background-image: linear-gradient(rgba(242,235,223,.93), rgba(242,235,223,.93)), url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5NiIgaGVpZ2h0PSI5NiIgdmlld0JveD0iMCAwIDk2IDk2Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMxNDMwNEEiIHN0cm9rZS13aWR0aD0iMS42IiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik0wIDU0LjcyQzQuODAwMDAwMDAwMDAwMDAxIDE4LjcyIDM4LjQwMDAwMDAwMDAwMDAwNiAxOC43MiAzNi4wIDQwLjMyQzM0LjggNTIuMzIgMTkuMjAwMDAwMDAwMDAwMDAzIDUyLjMyIDIwLjQgMzkuMTJNNDguMCA1NC43MkM1Mi44IDE4LjcyIDg2LjQgMTguNzIgODQuMCA0MC4zMkM4Mi44IDUyLjMyIDY3LjIgNTIuMzIgNjguNCAzOS4xMiIvPjxwYXRoIGQ9Ik0wIDU0LjcySDk2Ii8+PHBhdGggZD0iTTAgODQuMEg5NiIgb3BhY2l0eT0iLjUiLz48L2c+PGcgZmlsbD0iIzE0MzA0QSI+PGNpcmNsZSBjeD0iMjQuMCIgY3k9IjkuNjAwMDAwMDAwMDAwMDAxIiByPSIyLjQwMDAwMDAwMDAwMDAwMDQiLz48Y2lyY2xlIGN4PSI3Mi4wIiBjeT0iOS42MDAwMDAwMDAwMDAwMDEiIHI9IjIuNDAwMDAwMDAwMDAwMDAwNCIvPjwvZz48L3N2Zz4=");
+}
+html, body, .stApp, .stMarkdown, p, li, label { font-family: 'Cardo', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif; color: #1E1A22; }
+h1, h2, h3, h4 { font-family: 'Marcellus', 'Noto Serif', 'DejaVu Serif', 'Noto Sans CJK JP', Georgia, serif !important; color: #0B1D2E !important; }
+.block-container { padding-top: 3.6rem; max-width: 1400px; }
+header[data-testid="stHeader"] { background: transparent; }
+.tile-band {
+  height: 44px; margin: 0 0 1rem 0;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDQ0IDQ0Ij48cmVjdCB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIGZpbGw9IiNGOEYyRTgiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMxNDMwNEEiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik0wIDI1LjA4QzIuMiA4LjU4IDE3LjYgOC41OCAxNi41IDE4LjQ4QzE1Ljk1IDIzLjk4IDguOCAyMy45OCA5LjM1IDE3LjkzTTIyLjAgMjUuMDhDMjQuMiA4LjU4IDM5LjYgOC41OCAzOC41IDE4LjQ4QzM3Ljk1IDIzLjk4IDMwLjggMjMuOTggMzEuMzUgMTcuOTMiLz48cGF0aCBkPSJNMCAyNS4wOEg0NCIvPjxwYXRoIGQ9Ik0wIDM4LjVINDQiIG9wYWNpdHk9Ii41Ii8+PC9nPjxnIGZpbGw9IiMxNDMwNEEiPjxjaXJjbGUgY3g9IjExLjAiIGN5PSI0LjQiIHI9IjEuMSIvPjxjaXJjbGUgY3g9IjMzLjAiIGN5PSI0LjQiIHI9IjEuMSIvPjwvZz48L3N2Zz4=") repeat-x;
+  border-top: 4px solid #B9863F; border-bottom: 4px solid #B9863F;
+  box-shadow: 0 1px 0 #0B1D2E, 0 -1px 0 #0B1D2E;
+}
+.title-block h1 { font-size: 2.9rem; font-weight: 800; margin: 0; line-height: 1.05; }
+.title-block .subtitle { font-style: italic; color: #625A66; font-size: 1.1rem; margin: .2rem 0 1rem; }
+a.dl {
+  display: inline-block; padding: .45rem .9rem; border-radius: 6px; text-decoration: none !important;
+  background: #6B1F4E; color: #F8F2E8 !important; border: 2px solid #B9863F; font-weight: 600;
+}
+a.dl:hover { background: #842862; }
+a.dl.small { padding: .25rem .6rem; font-size: .9rem; font-weight: 400; background: #F8F2E8;
+  color: #0B1D2E !important; border: 1.5px solid #14304A; }
+a.dl.small:hover { border-color: #B9863F; color: #6B1F4E !important; }
+h4 { margin-top: .4rem !important; }
+[data-testid="stDownloadButton"] button {
+  background: #6B1F4E; color: #F8F2E8; border: 2px solid #B9863F; font-weight: 600;
+}
+[data-testid="stDownloadButton"] button:hover { background: #842862; color: #fff; border-color: #B9863F; }
+[data-testid="stDownloadButton"] button * { color: inherit !important; }
+.st-key-chapters [data-testid="stVerticalBlock"] { gap: .15rem; }
+.st-key-chapters button { justify-content: flex-start; min-height: 0; padding: .15rem 0; }
+</style>
