@@ -1,0 +1,27 @@
+{
+ "slug": "the-ships-of-sidon",
+ "title": {
+  "en": "The Ships of Sidon"
+ },
+ "subtitle": {
+  "en": "Xerxes' Phoenician fleet, from the Ionian Revolt to the Peace of Callias, 499–449 BC"
+ },
+ "start": -499,
+ "end": -449,
+ "app_subtitle": "Xerxes' Phoenician fleet, from the Ionian Revolt to the Peace of Callias, 499 – 449 BC",
+ "sources": [
+  "Herodotus, Histories, books 5–9",
+  "Thucydides, History of the Peloponnesian War, book 1 (the Pentecontaetia)",
+  "Diodorus Siculus, Library of History, books 11–12",
+  "Plutarch, Lives of Themistocles and Cimon",
+  "Aeschylus, The Persians (472 BC)",
+  "Russell Meiggs, The Athenian Empire (Oxford, 1972)",
+  "E. Badian, 'The Peace of Callias', Journal of Hellenic Studies 107 (1987)",
+  "J. F. Lazenby, The Defence of Greece, 490–479 BC (1993)",
+  "H. T. Wallinga, Xerxes' Greek Adventure: The Naval Perspective (2005)",
+  "Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)",
+  "Josette Elayi, The History of Phoenicia (2018)",
+  "J. S. Morrison, J. F. Coates and N. B. Rankov, The Athenian Trireme (2nd ed., 2000)"
+ ],
+ "links": {}
+}
