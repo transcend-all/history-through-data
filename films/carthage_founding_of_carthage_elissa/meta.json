@@ -1,0 +1,25 @@
+{
+ "slug": "qart-hadasht",
+ "title": {
+  "en": "Qart-hadasht"
+ },
+ "subtitle": {
+  "en": "Queen Elissa and the founding of Carthage, 831–650 BC"
+ },
+ "start": -831,
+ "end": -650,
+ "app_subtitle": "Queen Elissa and the founding of Carthage, 831 – 650 BC",
+ "sources": [
+  "Justin, Epitome of Pompeius Trogus, Book 18 (the Elissa legend)",
+  "Josephus, Against Apion 1.18, quoting Menander of Ephesus (the Tyrian king list)",
+  "Virgil, Aeneid, Books 1 and 4 (Dido)",
+  "Serge Lancel, Carthage: A History (Blackwell, 1995)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Maria Eugenia Aubet, The Phoenicians and the West (Cambridge University Press, 2nd ed., 2001)",
+  "Josephine Quinn, In Search of the Phoenicians (Princeton University Press, 2018)",
+  "Roald Docter et al., 'New radiocarbon dates from Carthage: bridging the gap between history and archaeology?', in C. Sagona (ed.), Beyond the Homeland: Markers in Phoenician Chronology (Peeters, 2008)",
+  "S. Vermeersch et al., 'New pottery contexts and radiocarbon data from early layers on the Byrsa hill (Carthage): the Astarté 2 sequence', Rivista di Studi Fenici (2020)",
+  "Brian Doak and Carolina López-Ruiz (eds.), The Oxford Handbook of the Phoenician and Punic Mediterranean (Oxford University Press, 2019)"
+ ],
+ "links": {}
+}
