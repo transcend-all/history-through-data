@@ -1,0 +1,25 @@
+{
+ "slug": "hannibals-last-war",
+ "title": {
+  "en": "Hannibal's Last War"
+ },
+ "subtitle": {
+  "en": "From Carthage to exile and poison in Bithynia, 202–183 BC"
+ },
+ "start": -202,
+ "end": -183,
+ "app_subtitle": "From reforming Carthage to exile, Antiochus' court and poison in Bithynia, 202 – 183 BC",
+ "sources": [
+  "Livy, History of Rome, books 30–39",
+  "Polybius, Histories, books 15–23",
+  "Cornelius Nepos, Life of Hannibal",
+  "Justin, Epitome of Pompeius Trogus, books 31–32",
+  "Appian, The Syrian Wars",
+  "Plutarch, Lives of Flamininus and Lucullus; Strabo, Geography 11.14",
+  "Serge Lancel, Hannibal (Blackwell, 1998)",
+  "Dexter Hoyos, Hannibal's Dynasty: Power and Politics in the Western Mediterranean (Routledge, 2003)",
+  "Eve MacDonald, Hannibal: A Hellenistic Life (Yale University Press, 2015)",
+  "John D. Grainger, The Roman War of Antiochos the Great (Brill, 2002)"
+ ],
+ "links": {}
+}
