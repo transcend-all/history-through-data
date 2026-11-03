@@ -1,0 +1,25 @@
+{
+ "slug": "twenty-two-letters",
+ "title": {
+  "en": "Twenty-Two Letters"
+ },
+ "subtitle": {
+  "en": "The Phoenician alphabet from Byblos to Greece, Italy and Assyria, 1050–600 BC"
+ },
+ "start": -1050,
+ "end": -600,
+ "app_subtitle": "The Phoenician alphabet from Byblos to Greece, Italy and Assyria, 1050 – 600 BC",
+ "sources": [
+  "Joseph Naveh, Early History of the Alphabet (Magnes Press, 1982)",
+  "L. H. Jeffery, The Local Scripts of Archaic Greece, rev. A. W. Johnston (Oxford, 1990)",
+  "Barry B. Powell, Homer and the Origin of the Greek Alphabet (Cambridge, 1991)",
+  "Roger D. Woodard, Greek Writing from Knossos to Homer (Oxford, 1997)",
+  "Peter T. Daniels and William Bright (eds.), The World's Writing Systems (Oxford, 1996)",
+  "Christopher Rollston, Writing and Literacy in the World of Ancient Israel (SBL, 2010)",
+  "Giuliano Bonfante and Larissa Bonfante, The Etruscan Language: An Introduction (Manchester, 2002)",
+  "Josephine Quinn, In Search of the Phoenicians (Princeton, 2018)",
+  "Holger Gzella, A Cultural History of Aramaic (Brill, 2015)",
+  "Musée du Louvre and National Museum of Beirut collection records"
+ ],
+ "links": {}
+}
