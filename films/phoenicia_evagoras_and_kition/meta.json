@@ -1,0 +1,23 @@
+{
+ "slug": "one-island-two-worlds",
+ "title": {
+  "en": "One Island, Two Worlds"
+ },
+ "subtitle": {
+  "en": "Evagoras of Salamis, Phoenician Kition and the war with Persia for Cyprus, 411–312 BC"
+ },
+ "start": -411,
+ "end": -312,
+ "app_subtitle": "Evagoras of Salamis, Phoenician Kition and the war with Persia for Cyprus, 411 – 312 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, books 14–16 and 19 (Loeb translation, LacusCurtius)",
+  "Isocrates, Evagoras",
+  "Xenophon, Hellenica, books 4–5",
+  "Arrian, Anabasis of Alexander, book 2",
+  "Giuseppe Garbati and Fabio Porzia, In Search of God Baal in Phoenician and Cypriot Epigraphy",
+  "Livius.org, Persian Cyprus and Kition",
+  "ancientcyprus.com, Cypro-Classical chronology",
+  "Encyclopaedia Britannica, Evagoras and Cyprus"
+ ],
+ "links": {}
+}
