@@ -1,0 +1,24 @@
+{
+ "slug": "the-wrestling-ground",
+ "title": {
+  "en": "The Wrestling Ground"
+ },
+ "subtitle": {
+  "en": "Pyrrhus against Carthage: the fight for Sicily, 280–272 BC"
+ },
+ "start": -280,
+ "end": -272,
+ "app_subtitle": "Pyrrhus against Carthage: the fight for Sicily, 280 – 272 BC",
+ "sources": [
+  "Plutarch, Life of Pyrrhus (trans. B. Perrin, Loeb Classical Library)",
+  "Diodorus Siculus, Library of History, Book 22 fragments (trans. F. R. Walton, Loeb Classical Library)",
+  "Polybius, Histories 1.7–8 and 3.25 (trans. W. R. Paton, Loeb Classical Library)",
+  "Dionysius of Halicarnassus, Roman Antiquities, Book 20 excerpts (trans. E. Cary, Loeb Classical Library)",
+  "Appian, Samnite History, fragments 11–12 (trans. H. White, Loeb Classical Library)",
+  "Justin, Epitome of Pompeius Trogus 18.2 and 23.3 (trans. J. S. Watson)",
+  "Livy, Periochae 14 (trans. J. Lendering, Livius.org)",
+  "The Cambridge Ancient History, vol. VII part 2, chapter on Rome and Carthage (Cambridge University Press)",
+  "Livius.org, 'Pyrrhus of Epirus' (J. Lendering)"
+ ],
+ "links": {}
+}
