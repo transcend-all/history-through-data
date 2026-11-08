@@ -1,0 +1,26 @@
+{
+ "slug": "the-stone-throwers",
+ "title": {
+  "en": "The Stone Throwers"
+ },
+ "subtitle": {
+  "en": "Balearic slingers in the wars of Carthage and Rome, 406–123 BC"
+ },
+ "start": -406,
+ "end": -123,
+ "app_subtitle": "Balearic slingers in the wars of Carthage and Rome, 406 – 123 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, books 5, 13, 19 and 25",
+  "Polybius, The Histories, books 1 and 3",
+  "Livy, History of Rome, books 21–30",
+  "Strabo, Geography, book 3",
+  "Florus, Epitome of Roman History, 1.43",
+  "Dexter Hoyos, Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247–183 BC (2003)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Leonard A. Curchin, Roman Spain: Conquest and Assimilation (1991)",
+  "M. Gwyn Morgan, 'The Roman Conquest of the Balearic Isles', California Studies in Classical Antiquity 2 (1969)",
+  "Benjamí Costa and Jordi H. Fernández (eds.), studies of Punic Ebusus, Museu Arqueològic d'Eivissa i Formentera",
+  "Víctor M. Guerrero Ayuso, studies of Talayotic and post-Talayotic Mallorca"
+ ],
+ "links": {}
+}
