@@ -1,0 +1,27 @@
+{
+ "slug": "the-elder-city",
+ "title": {
+  "en": "The Elder City"
+ },
+ "subtitle": {
+  "en": "Utica between Carthage and Rome, 310–46 BC"
+ },
+ "start": -310,
+ "end": -46,
+ "app_subtitle": "Utica between Carthage and Rome, 310 – 46 BC",
+ "sources": [
+  "Polybius, The Histories (books 1, 14–15, 36)",
+  "Diodorus Siculus, Library of History, book 20 (Agathocles in Africa)",
+  "Livy, History of Rome, books 29–30",
+  "Appian, The Punic Wars (Libyca)",
+  "Sallust, The Jugurthine War",
+  "Plutarch, Lives of Cato the Younger, Caesar and Pompey",
+  "[Caesar], The African War (Bellum Africum)",
+  "Dexter Hoyos, Truceless War: Carthage's Fight for Survival, 241 to 237 BC (Brill, 2007)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Adrian Goldsworthy, The Fall of Carthage (Cassell, 2000)",
+  "Institut National du Patrimoine (Tunisia): the archaeological site of Utica",
+  "J. L. López Castro et al., excavations at Utica (2012–2015), Phoenician-Punic levels"
+ ],
+ "links": {}
+}
