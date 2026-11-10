@@ -1,0 +1,26 @@
+{
+ "slug": "the-tin-islands",
+ "title": {
+  "en": "The Tin Islands"
+ },
+ "subtitle": {
+  "en": "Phoenicians, Greeks and Romans on the secret tin route to Britain, 500–95 BC"
+ },
+ "start": -500,
+ "end": -95,
+ "app_subtitle": "Phoenicians, Greeks and Romans on the secret tin route to Britain, 500 – 95 BC",
+ "sources": [
+  "Strabo, Geography, book 3 (3.5.11, the Cassiterides) and book 4 (4.2.1, on Polybius and Pytheas)",
+  "Diodorus Siculus, Library of History, book 5 (5.22, the tin trade of Belerion and Ictis)",
+  "Pliny the Elder, Natural History, books 2 and 4 (Himilco; Ictis and the tin islands)",
+  "Avienus, Ora Maritima (fragments of Himilco's voyage)",
+  "Polybius, Histories, book 3 (the treaties between Rome and Carthage)",
+  "Barry Cunliffe, The Extraordinary Voyage of Pytheas the Greek (2001)",
+  "Barry Cunliffe, Facing the Ocean: The Atlantic and Its Peoples (2001)",
+  "Maria Eugenia Aubet, The Phoenicians and the West (2nd ed., 2001)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "D. Berger et al., 'Isotope systematics and chemical composition of tin ingots…', PLOS ONE 14 (2019)",
+  "T. R. S. Broughton, The Magistrates of the Roman Republic (1951–1952)"
+ ],
+ "links": {}
+}
