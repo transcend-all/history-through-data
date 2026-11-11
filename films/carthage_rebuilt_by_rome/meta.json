@@ -1,0 +1,27 @@
+{
+ "slug": "carthage-reborn",
+ "title": {
+  "en": "Carthage Reborn"
+ },
+ "subtitle": {
+  "en": "Why Rome rebuilt the city it swore to destroy, 146–29 BC"
+ },
+ "start": -146,
+ "end": -29,
+ "app_subtitle": "Why Rome rebuilt the city it swore to destroy, 146 – 29 BC",
+ "sources": [
+  "Appian, Punica (The Punic Wars) 127–136, and Civil Wars 1.24",
+  "Plutarch, Lives of Gaius Gracchus and Marius",
+  "Sallust, The Jugurthine War",
+  "Cassius Dio, Roman History 43 and 52.43",
+  "[Caesar], The African War (Bellum Africum)",
+  "R. T. Ridley, 'To Be Taken with a Pinch of Salt: The Destruction of Carthage', Classical Philology 81 (1986)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Serge Lancel, Carthage: A History (1995)",
+  "Dexter Hoyos (ed.), A Companion to the Punic Wars (2011)",
+  "David Cherry, Frontier and Society in Roman North Africa (1998)",
+  "N. Ferchiou, 'Fossa Regia', Encyclopédie berbère",
+  "The Cambridge Ancient History, vol. IX: The Last Age of the Roman Republic (2nd ed., 1994)"
+ ],
+ "links": {}
+}
