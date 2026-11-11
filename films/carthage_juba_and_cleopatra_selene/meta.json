@@ -1,0 +1,25 @@
+{
+ "slug": "queen-of-the-west",
+ "title": {
+  "en": "Queen of the West"
+ },
+ "subtitle": {
+  "en": "Cleopatra Selene, Juba II and the last kingdom of the Punic West, 46 BC – AD 40"
+ },
+ "start": -46,
+ "end": 40,
+ "app_subtitle": "Cleopatra Selene, Juba II and the last kingdom of the Punic West, 46 BC – AD 40",
+ "sources": [
+  "Duane W. Roller, The World of Juba II and Kleopatra Selene (Routledge, 2003)",
+  "Duane W. Roller, Cleopatra's Daughter and Other Royal Women of the Augustan Era (Oxford University Press, 2018)",
+  "Jane Draycott, Cleopatra's Daughter: Egyptian Princess, Roman Prisoner, African Queen (Head of Zeus, 2022)",
+  "Philippe Leveau, Caesarea de Maurétanie: une ville romaine et ses campagnes (École française de Rome, 1984)",
+  "André Jodin, Les établissements du roi Juba II aux îles Purpuraires (Mogador) (1967)",
+  "Plutarch, Lives of Caesar and Antony",
+  "Cassius Dio, Roman History, books 43, 49–51 and 59",
+  "Pliny the Elder, Natural History, books 5, 6 and 25",
+  "Tacitus, Annals, books 2–4; Suetonius, Life of Caligula",
+  "The Cambridge Ancient History, vol. X: The Augustan Empire, 43 BC – AD 69 (2nd ed., 1996)"
+ ],
+ "links": {}
+}
