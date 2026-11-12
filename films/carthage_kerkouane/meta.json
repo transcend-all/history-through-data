@@ -1,0 +1,25 @@
+{
+ "slug": "the-punic-pompeii",
+ "title": {
+  "en": "The Punic Pompeii"
+ },
+ "subtitle": {
+  "en": "Kerkouane and Carthage's Cape Bon, 550–250 BC"
+ },
+ "start": -550,
+ "end": -250,
+ "app_subtitle": "Kerkouane and Carthage's Cape Bon, 550 – 250 BC",
+ "sources": [
+  "Polybius, The Histories, Book I (Regulus' invasion, 256–255 BC)",
+  "Diodorus Siculus, Library of History, Books XIV and XX (the Libyan revolt; Agathocles in Africa)",
+  "Justin, Epitome of Pompeius Trogus, Books XVIII–XIX",
+  "M. H. Fantar, Kerkouane, cité punique du Cap Bon (Tunisie), 3 vols., 1984–1986",
+  "S. Lancel, Carthage: A History (Blackwell, 1995)",
+  "R. Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "D. Hoyos, The Carthaginians (Routledge, 2010)",
+  "B. Quinn, In Search of the Phoenicians (Princeton, 2018)",
+  "UNESCO World Heritage Centre, Punic Town of Kerkuane and its Necropolis",
+  "Institut National du Patrimoine, Tunisia"
+ ],
+ "links": {}
+}
