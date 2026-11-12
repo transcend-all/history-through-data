@@ -1,0 +1,27 @@
+{
+ "slug": "the-forbidden-island",
+ "title": {
+  "en": "The Forbidden Island"
+ },
+ "subtitle": {
+  "en": "Carthage, Madeira and the Canaries, 600–25 BC"
+ },
+ "start": -600,
+ "end": -25,
+ "app_subtitle": "Did Carthage find Madeira and the Canaries? The islands of the Atlantic, 600 – 25 BC",
+ "sources": [
+  "Pseudo-Aristotle, On Marvellous Things Heard 84; Diodorus of Sicily, Library of History 5.19–20",
+  "Pliny the Elder, Natural History 5–6 (Juba II on the Fortunate Isles); Plutarch, Life of Sertorius 8–9",
+  "Hanno, Periplus; Pseudo-Scylax, Periplus 112 (Cerne)",
+  "Duane W. Roller, Through the Pillars of Herakles: Greco-Roman Exploration of the Atlantic (Routledge, 2006)",
+  "Duane W. Roller, The World of Juba II and Kleopatra Selene (Routledge, 2003)",
+  "Maria Eugenia Aubet, The Phoenicians and the West (Cambridge University Press, 2nd ed. 2001)",
+  "B. S. J. Isserlin, 'Did Carthaginian mariners reach the island of Corvo (Azores)?', Rivista di Studi Fenici 12 (1984)",
+  "J. Santana et al., 'The chronology of the human colonization of the Canary Islands', PNAS 121 (2024)",
+  "P. Atoche Peña & M. A. Ramírez Rodríguez, studies of Buenavista and El Bebedero, Lanzarote (Universidad de Las Palmas de Gran Canaria)",
+  "Universidad de La Laguna, excavations of the Roman purple-dye site Lobos 1, Fuerteventura (2012 onwards)",
+  "J. C. Rando, H. Pieper & J. A. Alcover, 'Radiocarbon evidence for the presence of mice on Madeira Island (North Atlantic) one millennium ago', Proceedings of the Royal Society B 281 (2014); P. M. Raposeiro et al., 'Climate change facilitated the early colonization of the Azores', PNAS 118 (2021)",
+  "André Jodin, Mogador, comptoir phénicien du Maroc atlantique (1966)"
+ ],
+ "links": {}
+}
