@@ -1,0 +1,27 @@
+{
+ "slug": "the-secret-harbour",
+ "title": {
+  "en": "The Secret Harbour"
+ },
+ "subtitle": {
+  "en": "Carthage's war fleets and the round harbour behind its walls, 400–146 BC"
+ },
+ "start": -400,
+ "end": -146,
+ "app_subtitle": "Carthage's war fleets and the round harbour behind its walls, 400 – 146 BC",
+ "sources": [
+  "Appian, Roman History, Book 8: The Punic Wars (esp. §§96, 121–127)",
+  "Polybius, The Histories, Books 1–3 and 36–38",
+  "Livy, History of Rome, Books 21–30",
+  "Diodorus Siculus, Library of History, Books 13–20",
+  "Henry Hurst, interim reports on the British excavations at Carthage, The Antiquaries Journal (1975–1979)",
+  "Henry Hurst, Excavations at Carthage: The British Mission, vol. II.1, The Circular Harbour, North Side (Oxford, 1994)",
+  "Lawrence E. Stager and the American Punic Project, excavation reports on the commercial harbour (1970s)",
+  "David Blackman, Boris Rankov et al., Shipsheds of the Ancient Mediterranean (Cambridge, 2013)",
+  "Serge Lancel, Carthage: A History (Blackwell, 1995)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Adrian Goldsworthy, The Fall of Carthage: The Punic Wars 265–146 BC (Cassell, 2000)",
+  "UNESCO World Heritage Centre, Archaeological Site of Carthage (inscribed 1979)"
+ ],
+ "links": {}
+}
