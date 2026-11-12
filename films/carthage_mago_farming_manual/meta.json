@@ -1,0 +1,26 @@
+{
+ "slug": "the-farmer-of-carthage",
+ "title": {
+  "en": "The Farmer of Carthage"
+ },
+ "subtitle": {
+  "en": "Mago's farming manual and the estates of Punic Africa, 400 BC – AD 65"
+ },
+ "start": -400,
+ "end": 65,
+ "app_subtitle": "Mago's farming manual and the estates of Punic Africa, 400 BC – AD 65",
+ "sources": [
+  "Pliny the Elder, Natural History, book 18 (Mago's translation; 'latifundia perdidere Italiam')",
+  "Columella, On Agriculture (De re rustica), books 1, 3, 6 and 12",
+  "Varro, On Agriculture (Res rusticae), book 1",
+  "Cato the Elder, On Agriculture (De agri cultura)",
+  "Diodorus Siculus, Library of History, book 20 (Agathocles in Africa)",
+  "Polybius, Histories, books 1 and 36",
+  "Dexter Hoyos, The Carthaginians (Routledge, 2010)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Serge Lancel, Carthage: A History (Blackwell, 1995)",
+  "D. J. Mattingly and R. B. Hitchner, 'Roman Africa: An Archaeological Review', Journal of Roman Studies 85 (1995)",
+  "Kerkouane: UNESCO World Heritage listing, Punic town and necropolis"
+ ],
+ "links": {}
+}
