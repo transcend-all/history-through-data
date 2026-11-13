@@ -1,0 +1,27 @@
+{
+ "slug": "the-enemy-within",
+ "title": {
+  "en": "The Enemy Within"
+ },
+ "subtitle": {
+  "en": "Carthage, the Libyan revolts and Hanno the Great, 480–340 BC"
+ },
+ "start": -480,
+ "end": -340,
+ "app_subtitle": "Carthage, the Libyan revolts and Hanno the Great, 480 – 340 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, books 11–16 (trans. C. H. Oldfather, Loeb Classical Library)",
+  "Justin, Epitome of the Philippic History of Pompeius Trogus, books 19–21",
+  "Aristotle, Politics, book 2 (the Carthaginian constitution) and book 5",
+  "Polybius, Histories, 1.72 and 3.24",
+  "Herodotus, Histories, book 4",
+  "Plutarch, Life of Timoleon",
+  "Serge Lancel, Carthage: A History (Blackwell, 1995)",
+  "Dexter Hoyos, The Carthaginians (Routledge, 2010)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "B. H. Warmington, Carthage (Robert Hale, 1960)",
+  "Stéphane Gsell, Histoire ancienne de l'Afrique du Nord, vols. 1–2 (1913–1920)",
+  "Brian Caven, Dionysius I: War-Lord of Sicily (Yale, 1990)"
+ ],
+ "links": {}
+}
