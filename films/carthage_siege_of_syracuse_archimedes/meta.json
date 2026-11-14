@@ -1,0 +1,25 @@
+{
+ "slug": "archimedes-claws",
+ "title": {
+  "en": "Archimedes' Claws"
+ },
+ "subtitle": {
+  "en": "The siege of Syracuse and the Greek city that sided with Carthage, 215–210 BC"
+ },
+ "start": -215,
+ "end": -210,
+ "app_subtitle": "The siege of Syracuse and the Greek city that sided with Carthage, 215 – 210 BC",
+ "sources": [
+  "Livy, History of Rome, books 23–26",
+  "Polybius, The Histories, book 8",
+  "Plutarch, Life of Marcellus",
+  "Adrian Goldsworthy, The Fall of Carthage: The Punic Wars 265–146 BC (2000)",
+  "Dexter Hoyos (ed.), A Companion to the Punic Wars (2011)",
+  "Brian Caven, The Punic Wars (1980)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Serafina Cuomo, Ancient Mathematics (2001), on Archimedes",
+  "Chris Rorres, Archimedes resources, Courant Institute, New York University",
+  "The Cambridge Ancient History, vol. VIII: Rome and the Mediterranean to 133 BC (1989)"
+ ],
+ "links": {}
+}
