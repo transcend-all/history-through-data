@@ -1,0 +1,26 @@
+{
+ "slug": "massalia",
+ "title": {
+  "en": "Massalia"
+ },
+ "subtitle": {
+  "en": "Greek Marseille against Carthage, 600–217 BC"
+ },
+ "start": -600,
+ "end": -217,
+ "app_subtitle": "The Greek city that fought Carthage for four centuries and drew Rome into Spain, 600 – 217 BC",
+ "sources": [
+  "Herodotus, Histories 1.163–167 (Phocaea and the battle of Alalia)",
+  "Thucydides, History of the Peloponnesian War 1.13",
+  "Polybius, Histories 3.22–26, 3.41–42, 3.95–96 (treaties, the Rhône, the Ebro)",
+  "Livy, History of Rome 21–22",
+  "Justin, Epitome of Pompeius Trogus 43.3–5",
+  "Strabo, Geography 3.4 and 4.1",
+  "Sosylus of Lacedaemon, FGrHist 176 F1 (the Würzburg papyrus)",
+  "Michel Bats et al., Marseille grecque et la Gaule (1992)",
+  "Dexter Hoyos, Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247–183 BC (2003)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Musée d'Histoire de Marseille"
+ ],
+ "links": {}
+}
