@@ -1,0 +1,25 @@
+{
+ "slug": "zama",
+ "title": {
+  "en": "Zama"
+ },
+ "subtitle": {
+  "en": "Hannibal against Scipio, the only great battle Hannibal ever lost, 205–201 BC"
+ },
+ "start": -205,
+ "end": -201,
+ "app_subtitle": "Hannibal against Scipio, the only great battle Hannibal ever lost, 205 – 201 BC",
+ "sources": [
+  "Polybius, The Histories, Books 14–15",
+  "Livy, History of Rome (Ab Urbe Condita), Books 29–30",
+  "Appian, The Punic Wars (Libyca)",
+  "Adrian Goldsworthy, The Fall of Carthage: The Punic Wars 265–146 BC (2000)",
+  "J. F. Lazenby, Hannibal's War: A Military History of the Second Punic War (1978)",
+  "H. H. Scullard, Scipio Africanus: Soldier and Politician (1970)",
+  "Dexter Hoyos, Hannibal's Dynasty (2003) and Mastering the West (2015)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Brian Caven, The Punic Wars (1980)",
+  "Encyclopaedia Britannica: Battle of Zama; Scipio Africanus"
+ ],
+ "links": {}
+}
