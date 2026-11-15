@@ -1,0 +1,25 @@
+{
+ "slug": "the-stolen-island",
+ "title": {
+  "en": "The Stolen Island"
+ },
+ "subtitle": {
+  "en": "How Carthage lost Sardinia, and Hampsicora's revolt to win it back, 238–215 BC"
+ },
+ "start": -238,
+ "end": -215,
+ "app_subtitle": "How Carthage lost Sardinia to Rome, and Hampsicora's revolt to win it back, 238–215 BC",
+ "sources": [
+  "Polybius, The Histories, books 1–3",
+  "Livy, History of Rome, books 21–23 and the Periochae of book 20",
+  "Zonaras, Epitome of Histories, book 8 (after Cassius Dio)",
+  "T. R. S. Broughton, The Magistrates of the Roman Republic, vol. 1 (1951)",
+  "Dexter Hoyos, Truceless War: Carthage's Fight for Survival, 241 to 237 BC (2007)",
+  "Dexter Hoyos (ed.), A Companion to the Punic Wars (2011)",
+  "Peter van Dommelen, On Colonial Grounds: Sardinia in the Western Mediterranean (1998)",
+  "Attilio Mastino (ed.), Storia della Sardegna antica (2005)",
+  "Cambridge Ancient History, vol. VIII: Rome and the Mediterranean to 133 BC (1989)",
+  "Regione Autonoma della Sardegna, Sardegna Cultura: La rivolta di Ampsicora (Cornus)"
+ ],
+ "links": {}
+}
