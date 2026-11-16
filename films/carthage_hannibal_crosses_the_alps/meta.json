@@ -1,0 +1,25 @@
+{
+ "slug": "fifteen-days-in-the-snow",
+ "title": {
+  "en": "Fifteen Days in the Snow"
+ },
+ "subtitle": {
+  "en": "Hannibal's march over the Alps, 225–218 BC"
+ },
+ "start": -225,
+ "end": -218,
+ "app_subtitle": "Hannibal's march from New Carthage over the Alps into Italy, 225 – 218 BC",
+ "sources": [
+  "Polybius, The Histories, book 3 (trans. W. R. Paton, Loeb Classical Library)",
+  "Livy, History of Rome (Ab Urbe Condita), book 21",
+  "F. W. Walbank, A Historical Commentary on Polybius, vol. 1 (Oxford, 1957)",
+  "Gavin de Beer, Alps and Elephants: Hannibal's March (1955)",
+  "Dennis Proctor, Hannibal's March in History (Oxford, 1971)",
+  "John Lazenby, Hannibal's War (1978)",
+  "Serge Lancel, Hannibal (1995; English trans. 1998)",
+  "Patrick Hunt, Hannibal (2017) and Stanford Alpine Archaeology Project field reports",
+  "W. C. Mahaney et al., 'Biostratigraphic evidence relating to the age-old question of Hannibal's invasion of Italy', Archaeometry 59 (2017)",
+  "Dexter Hoyos, Hannibal's Dynasty: Power and Politics in the Western Mediterranean, 247–183 BC (2003)"
+ ],
+ "links": {}
+}
