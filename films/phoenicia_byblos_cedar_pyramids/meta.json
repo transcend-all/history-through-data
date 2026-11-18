@@ -1,0 +1,26 @@
+{
+ "slug": "forty-ships-of-cedar",
+ "title": {
+  "en": "Forty Ships of Cedar"
+ },
+ "subtitle": {
+  "en": "Byblos and the pharaohs who built the pyramids, 2600–2200 BC"
+ },
+ "start": -2600,
+ "end": -2200,
+ "app_subtitle": "How Byblos supplied the pharaohs who built the pyramids, 2600 – 2200 BC",
+ "sources": [
+  "Toby Wilkinson, Royal Annals of Ancient Egypt: The Palermo Stone and its Associated Fragments (2000)",
+  "Ian Shaw (ed.), The Oxford History of Ancient Egypt (2000)",
+  "Pierre Tallet & Mark Lehner, The Red Sea Scrolls: How Ancient Papyri Reveal the Secrets of the Pyramids (2021)",
+  "Nancy Jenkins, The Boat Beneath the Pyramid: King Cheops' Royal Ship (1980)",
+  "Grand Egyptian Museum and Egypt's Ministry of Tourism and Antiquities: the Khufu boat",
+  "Muntaha Saghieh, Byblos in the Third Millennium B.C. (1983)",
+  "Karin Sowada, Egypt in the Eastern Mediterranean during the Old Kingdom (2009)",
+  "Paolo Matthiae, Ebla: La città rivelata (1995) and the Italian Archaeological Expedition to Ebla",
+  "Miroslav Lichtheim, Ancient Egyptian Literature, vol. 1 (Weni, Harkhuf, Ipuwer)",
+  "Metropolitan Museum of Art, Heilbrunn Timeline of Art History: Ebla; Byblos",
+  "Encyclopaedia Britannica: Byblos; History of Lebanon"
+ ],
+ "links": {}
+}
