@@ -1,0 +1,25 @@
+{
+ "slug": "the-sword-of-rome",
+ "title": {
+  "en": "The Sword of Rome"
+ },
+ "subtitle": {
+  "en": "Marcellus, the general who fought Hannibal, 222–208 BC"
+ },
+ "start": -222,
+ "end": -208,
+ "app_subtitle": "Marcellus, the general who fought Hannibal, 222 – 208 BC",
+ "sources": [
+  "Polybius, The Histories, books 2–3 and fragments of 7–10",
+  "Livy, Ab Urbe Condita (History of Rome), books 21–27",
+  "Plutarch, Life of Marcellus and Life of Fabius Maximus",
+  "J. F. Lazenby, Hannibal's War: A Military History of the Second Punic War (1978)",
+  "Adrian Goldsworthy, The Fall of Carthage: The Punic Wars 265–146 BC (2000)",
+  "Dexter Hoyos (ed.), A Companion to the Punic Wars (2011)",
+  "Michael P. Fronda, Between Rome and Carthage: Southern Italy during the Second Punic War (2010)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Livius.org, 'Marcus Claudius Marcellus' (Jona Lendering)",
+  "World History Encyclopedia, 'Marcus Claudius Marcellus'"
+ ],
+ "links": {}
+}
