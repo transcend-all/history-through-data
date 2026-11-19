@@ -1,0 +1,25 @@
+{
+ "slug": "the-western-dream",
+ "title": {
+  "en": "The Western Dream"
+ },
+ "subtitle": {
+  "en": "Athens, Carthage and the war for Sicily, 416–409 BC"
+ },
+ "start": -416,
+ "end": -409,
+ "app_subtitle": "Athens, Carthage and the war for Sicily, 416 – 409 BC",
+ "sources": [
+  "Thucydides, History of the Peloponnesian War, Books 6–7",
+  "Diodorus Siculus, Library of History, Books 12–13",
+  "Plutarch, Lives of Nicias and Alcibiades",
+  "Donald Kagan, The Peace of Nicias and the Sicilian Expedition (Cornell University Press, 1981)",
+  "Peter Green, Armada from Athens (Doubleday, 1970)",
+  "Simon Hornblower, A Commentary on Thucydides, Volume III: Books 5.25–8.109 (Oxford University Press, 2008)",
+  "The Cambridge Ancient History, Volume V: The Fifth Century B.C. (2nd ed., 1992)",
+  "Brian Caven, Dionysius I: War-Lord of Sicily (Yale University Press, 1990)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "Dexter Hoyos, The Carthaginians (Routledge, 2010)"
+ ],
+ "links": {}
+}
