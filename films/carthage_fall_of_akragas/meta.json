@@ -1,0 +1,24 @@
+{
+ "slug": "hannibals-revenge",
+ "title": {
+  "en": "Hannibal's Revenge"
+ },
+ "subtitle": {
+  "en": "Carthage, Selinus, Himera and the fall of Akragas, 410–405 BC"
+ },
+ "start": -410,
+ "end": -405,
+ "app_subtitle": "Carthage, Selinus, Himera and the fall of Akragas, 410 – 405 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, Book 13 (chs. 43–114), trans. C. H. Oldfather, Loeb Classical Library",
+  "B. Caven, Dionysius I: War-Lord of Sicily (Yale University Press, 1990)",
+  "M. I. Finley, Ancient Sicily (Chatto & Windus, rev. ed. 1979)",
+  "D. M. Lewis, 'Sicily, 413–368 B.C.', Cambridge Ancient History, vol. VI (2nd ed., 1994)",
+  "R. Miles, Carthage Must Be Destroyed (Allen Lane, 2010)",
+  "D. Hoyos, The Carthaginians (Routledge, 2010)",
+  "S. Lancel, Carthage: A History (Blackwell, 1995)",
+  "J. Serrati, 'Sicily from pre-Greek times to the fourth century', in Sicily from Aeneas to Augustus (Edinburgh, 2000)",
+  "M. H. Hansen and T. H. Nielsen, An Inventory of Archaic and Classical Poleis (Oxford, 2004)"
+ ],
+ "links": {}
+}
