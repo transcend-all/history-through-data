@@ -1,0 +1,25 @@
+{
+ "slug": "king-of-kings",
+ "title": {
+  "en": "King of Kings"
+ },
+ "subtitle": {
+  "en": "Tigranes the Great, the last Seleucid queen and Rome on the Phoenician coast, 95–64 BC"
+ },
+ "start": -95,
+ "end": -64,
+ "app_subtitle": "Tigranes the Great, the last Seleucid queen and Rome on the Phoenician coast, 95 – 64 BC",
+ "sources": [
+  "Appian, The Syrian Wars and The Mithridatic Wars",
+  "Plutarch, Lives of Lucullus and Pompey",
+  "Strabo, Geography, books 11, 12 and 16",
+  "Flavius Josephus, Jewish Antiquities 13–14 and The Jewish War 1",
+  "Cassius Dio, Roman History, books 36–37",
+  "Encyclopaedia Iranica, 'Tigran II' and 'Armenia and Iran'",
+  "John D. Grainger, The Fall of the Seleukid Empire 187–75 BC (2015)",
+  "A. N. Sherwin-White, Roman Foreign Policy in the East, 168 BC to AD 1 (1984)",
+  "Josette Elayi, The History of Phoenicia (2018)",
+  "Kevin Butcher, Roman Syria and the Near East (2003)"
+ ],
+ "links": {}
+}
