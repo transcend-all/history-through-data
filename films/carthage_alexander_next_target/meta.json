@@ -1,0 +1,25 @@
+{
+ "slug": "was-carthage-next",
+ "title": {
+  "en": "Was Carthage Next?"
+ },
+ "subtitle": {
+  "en": "Alexander the Great, a Carthaginian spy and the war that never came, 332–323 BC"
+ },
+ "start": -332,
+ "end": -323,
+ "app_subtitle": "Alexander the Great, a Carthaginian spy and the western conquest that never happened, 332 – 323 BC",
+ "sources": [
+  "Arrian, Anabasis of Alexander (books 2–7)",
+  "Quintus Curtius Rufus, Histories of Alexander the Great (book 4)",
+  "Diodorus Siculus, Library of History (books 17–18)",
+  "Justin, Epitome of Pompeius Trogus (book 21); Frontinus, Stratagems (1.2.3)",
+  "Plutarch, Life of Alexander",
+  "A. B. Bosworth, Conquest and Empire: The Reign of Alexander the Great (Cambridge, 1988)",
+  "E. Badian, 'A King's Notebooks', Harvard Studies in Classical Philology 72 (1968)",
+  "W. W. Tarn, Alexander the Great, vol. 2: Sources and Studies (Cambridge, 1948)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Livius.org, Diodorus on Alexander's last plans (translation and commentary)"
+ ],
+ "links": {}
+}
