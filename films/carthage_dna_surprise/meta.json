@@ -1,0 +1,24 @@
+{
+ "slug": "the-punic-puzzle",
+ "title": {
+  "en": "The Punic Puzzle"
+ },
+ "subtitle": {
+  "en": "Ancient DNA and the people of Carthage's world, 600–200 BC"
+ },
+ "start": -600,
+ "end": -200,
+ "app_subtitle": "Ancient DNA and the people of Carthage's world, 600 – 200 BC",
+ "sources": [
+  "Ringbauer, H. et al. \"Punic people were genetically diverse with almost no Levantine ancestors.\" Nature 643 (2025): 139–147",
+  "Doak, B. R. & López-Ruiz, C. (eds.) The Oxford Handbook of the Phoenician and Punic Mediterranean (2019)",
+  "Miles, R. Carthage Must Be Destroyed: The Rise and Fall of an Ancient Civilization (2010)",
+  "Quinn, J. C. In Search of the Phoenicians (2018)",
+  "Hoyos, D. The Carthaginians (2010)",
+  "Aubet, M. E. The Phoenicians and the West: Politics, Colonies and Trade (2nd ed., 2001)",
+  "Fernandes, D. M. et al. \"The spread of steppe and Iranian-related ancestry in the islands of the western Mediterranean.\" Nature Ecology & Evolution (2020)",
+  "Haber, M. et al. \"Continuity and admixture in the last five millennia of Levantine history from ancient Canaanite and present-day Lebanese genome sequences.\" American Journal of Human Genetics (2017)",
+  "Polybius, The Histories, books 1–3; Diodorus Siculus, Library of History, books 11–14"
+ ],
+ "links": {}
+}
