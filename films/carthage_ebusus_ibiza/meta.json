@@ -1,0 +1,26 @@
+{
+ "slug": "ebusus",
+ "title": {
+  "en": "Ebusus"
+ },
+ "subtitle": {
+  "en": "Ibiza before the clubs: Carthage's island, 654–206 BC"
+ },
+ "start": -654,
+ "end": -206,
+ "app_subtitle": "Ibiza before the clubs: Carthage's island in the western Mediterranean, 654 – 206 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, book 5.16 (Ebusus)",
+  "Livy, History of Rome, books 21–22 and 28 (Scipio's raid of 217 BC; Mago in 206 BC)",
+  "Polybius, Histories, books 1–3",
+  "Joan Ramon Torres, studies of Sa Caleta and of Punic-Ebusitan amphorae",
+  "Benjamí Costa and Jordi H. Fernández, Ibiza in the Phoenician-Punic period (1997)",
+  "Museu Arqueològic d'Eivissa i Formentera (Puig des Molins)",
+  "UNESCO World Heritage Centre, Ibiza, Biodiversity and Culture",
+  "Dexter Hoyos, The Carthaginians (Routledge, 2010)",
+  "Richard Miles, Carthage Must Be Destroyed (2010)",
+  "Pere Pau Ripollès, studies of the coinage of Ebusus",
+  "Enrique García Vargas, purple-dye production in Phoenician and Punic Iberia (2020)"
+ ],
+ "links": {}
+}
