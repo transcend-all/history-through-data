@@ -1,0 +1,25 @@
+{
+ "slug": "memnons-sea",
+ "title": {
+  "en": "Memnon's Sea"
+ },
+ "subtitle": {
+  "en": "Persia's fleet against Alexander the Great, 336–331 BC"
+ },
+ "start": -336,
+ "end": -331,
+ "app_subtitle": "Persia's fleet against Alexander the Great, 336 – 331 BC",
+ "sources": [
+  "Arrian, Anabasis of Alexander, books 1–3 (trans. E. J. Chinnock; P. A. Brunt, Loeb)",
+  "Diodorus Siculus, Library of History, book 17 (trans. C. Bradford Welles, Loeb)",
+  "Quintus Curtius Rufus, History of Alexander, books 3–4",
+  "A. B. Bosworth, Conquest and Empire: The Reign of Alexander the Great (Cambridge, 1988)",
+  "Pierre Briant, From Cyrus to Alexander: A History of the Persian Empire (Eisenbrauns, 2002)",
+  "Stephen Ruzicka, Trouble in the West: Egypt and the Persian Empire, 525–332 BCE (Oxford, 2012)",
+  "Waldemar Heckel, Who's Who in the Age of Alexander the Great (Blackwell, 2006)",
+  "N. G. L. Hammond, Alexander the Great: King, Commander and Statesman (1980)",
+  "Josef Elayi, The History of Phoenicia (Lockwood Press, 2018)",
+  "Jona Lendering, Livius.org: articles on Memnon of Rhodes and Alexander's campaigns"
+ ],
+ "links": {}
+}
