@@ -1,0 +1,25 @@
+{
+ "slug": "sons-of-mars",
+ "title": {
+  "en": "Sons of Mars"
+ },
+ "subtitle": {
+  "en": "The mercenaries who stole cities, 413–264 BC"
+ },
+ "start": -413,
+ "end": -264,
+ "app_subtitle": "The Campanian mercenaries who stole Sicilian cities and set off the Punic Wars, 413 – 264 BC",
+ "sources": [
+  "Diodorus Siculus, Library of History, books 13–16 and 19–22",
+  "Polybius, The Histories, book 1",
+  "Livy, History of Rome, books 7–10 and Periochae 12–16",
+  "Plutarch, Lives of Timoleon and Pyrrhus",
+  "The Cambridge Ancient History, vols. VI, VII.2 (Cambridge University Press)",
+  "Gianluca Tagliamonte, I figli di Marte: mobilità, mercenari e mercenariato italici in Magna Grecia e Sicilia (1994)",
+  "Brian Caven, Dionysius I: War-Lord of Sicily (Yale, 1990)",
+  "Dexter Hoyos, Unplanned Wars: The Origins of the First and Second Punic Wars (De Gruyter, 1998)",
+  "John F. Lazenby, The First Punic War (UCL Press, 1996)",
+  "Richard Miles, Carthage Must Be Destroyed (Allen Lane, 2010)"
+ ],
+ "links": {}
+}
