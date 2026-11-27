@@ -1,0 +1,25 @@
+{
+ "slug": "three-banks-of-oars",
+ "title": {
+  "en": "Three Banks of Oars"
+ },
+ "subtitle": {
+  "en": "Who invented the trireme? Phoenicia, Corinth and Egypt, 704–480 BC"
+ },
+ "start": -704,
+ "end": -480,
+ "app_subtitle": "Who invented the trireme? Phoenicia, Corinth and Egypt, 704 – 480 BC",
+ "sources": [
+  "Herodotus, Histories (books 2, 3, 6, 7 and 8)",
+  "Thucydides, History of the Peloponnesian War, 1.13–14",
+  "Clement of Alexandria, Stromata 1.16",
+  "Royal Inscriptions of the Neo-Assyrian Period (RINAP 3): Sennacherib, Oracc",
+  "British Museum: reliefs from the South-West Palace of Sennacherib, Nineveh",
+  "L. Basch, 'Phoenician Oared Ships', The Mariner's Mirror 55 (1969)",
+  "A. B. Lloyd, 'Were Necho's Triremes Phoenician?', Journal of Hellenic Studies 95 (1975)",
+  "H. T. Wallinga, Ships and Sea-Power before the Great Persian War (Brill, 1993)",
+  "J. S. Morrison, J. F. Coates and N. B. Rankov, The Athenian Trireme (2nd ed., 2000)",
+  "L. Casson, Ships and Seamanship in the Ancient World (1971)"
+ ],
+ "links": {}
+}
